@@ -187,3 +187,80 @@ A 45-year-old woman presents with nausea, vomiting, and abdominal pain. DDx incl
 - acute appendicitis - TRUE
 
 ### Q24
+The following radiological features suggest that significant trauma to the renal tract may have occurred:
+- scoliosis with the concavity away from the side of the injury - FALSE
+- ipsilaterla loss of psoas shadow - TRUE
+- fractured lumbar transverse process - TRUE
+- free intra-abdominal air - FALSE
+- elevation of the ipsilateral diaphragm - TRUE
+
+### Q25
+Ureteric calculus:
+- will generally pass spontaneously if smaller than 2cm in diameter - FALSE
+- should be removed if causing dilatation to the upper urinary tract - TRUE
+- frequently cause vomiting - TRUE
+- due to uric acid are radio-translucent - FALSE
+- often resul from urinary tract infection (UTI) - FALSE
+
+### Q26
+Regarding urological trauma:
+- 15% of renal injuries are critical (renal fragmention or renal pedicle injury) - FALSE
+- the degree of haematuria correlates with the severity of renal trauma - FALSE 
+- 90% of bladder injuries are due to blunt trauma - TRUE
+- membranous urethral injuries are usually caused by straddle injuries - TRUE
+- easy passage of a soft urethral catheter excludes significant urethral injury - FALSE
+
+### Q27
+Malignant melanoma:
+- is more frequent in communities living furthest from the equator - FALSE
+- is more common that squamous cell carcinoma in the UK - FALSE
+- accounts for the majority of deaths due to cutaneous malignancy - FALSE
+- is common amoungst Celtic races - TRUE
+- is more common in men - TRUE
+
+### Q28
+In axillary lymph node dissection
+- the medial wall of the axilla is formed by serratus anterior - TRUE
+- to enter the axilla, the clavipectoral facis on the edge of pectoralis major should be divided - FALSE
+- inadvertant division of the thoracodorsal nerve will lead to a winged scpaula - FALSE
+- level II nodes are those lying lateral pectoralis minor - FALSE
+- an anaesthetic patch on the upper medial arm is a recognised complication - TRUE
+
+### Q29
+Arch of the Aorta
+- lies wholly in the superior mediastinum - TRUE
+- reaches the vertebral column at the lower border of fourth thoracic vertebra - FALSE
+- is crossed anteriorly and to the left by the left phrenic nerve - TRUE
+- gives rise to the right internal mammary artery - FALSE
+- gives rise to the left vertebral artery - TRUE
+
+### Q30
+Colorectal carcinoma:
+- incidence is increased in Gardner's syndrome - FALSE
+- is frequently associated with human papilloma virus (HPV) - FALSE
+- is radio resistant - FALSE
+- size is the best predictor of prognosis - FALSE
+- arising in the right colon, tends to have an earlier Dukes' stage that that arising in the right column - FALSE
+
+### Q31
+Theme: Locomotor System
+
+	A. Osteosarcoma
+	B. Bony metastasis from lung carcinoma
+	C. Myeloma
+	D. Oestochondroma
+	E. Ewing's sarcoma
+
+**Scenario A**
+You see a 50-year-old man presenting with weakness, lethargy and back pain. X-ray of hsi back reveals a crush fracture of his vertebra with multiple punched out defects in his sacrum and ilium. Blood test reveal an anaemia but also a very high ESR. Examination of the urine reveals a Bence-Jones proteinuria.
+
+#### Answer: ?
+
+**Scenario B**
+A 13-year-old girl presents with a 9-month history of pain in her knee especially at night. X-ray of her knee shows reactive new bone formation at angles of periosteal elevation, osteolytic, and oestoblastic areas. Only the metaphysis of her tibia is affected.
+
+#### Answer: ?
+
+**Scenario C**
+
+
