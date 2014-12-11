@@ -421,23 +421,40 @@ Results in a dinner folk deformity
 #### S1
 A 65-year-old presents with intermittent claudication of the left calf. The claudication distance is 100 metres. Angiography demonstrated a 1.5cm stenosis of the left superficial femoral artery.
 ##### Answer: B. Percutaneous balloon angioplasty - TRUE
-
+- Percutaneous balloon angioplasty is particularly suitable for 
+	1. Localised stenoses, and 
+	2. Short occlusions
+- Lesion in larger proximal vessels are
+	- Technically easier to treat with fewer complications
+	- Best long-term results
 
 #### S2
 A 73-year-old diabetic woman presents with critial ischaemia of the right lower leg. Angiography reveals extensive disease of the superficial femoral,popliteal and tibial arteries. Pulse-generated run-off assessment indicates a good run-off in the posterior tibial artery.
 ##### Answer: C Femorodistal bypass - TRUE
+- Femorodistal bypass using an autogenous vein graft is Tx of choice for this Pt
+- Absence of images on angiography must **not** be accepted as evidence of occlusion
+	1. Posterior Tibial Artery
+	2. Anterior Tibial Artery
+	3. Common Peroneal Artery
 
 #### S3
 A 72-year-old man presents with a 4-hour Hx of acute ischaemia of the left leg. Clinical examinations demonstrate signs of actue ischaemia with no evidence of gangree. There is no neurological defet. An urgent angiogram reveals a complete occlusion of the distal superficial femoral artery most likely due to thrombosis.
 ##### Answer: E. Tissue plasminogen activator infusion (intra-arterial) - TRUE
+- Intra-arterial thrombolysis with tPA (or streptokinase) is Tx of choice
+	1. Short Hx of acute ischaemia (4 hrs)
+	2. Absence of neurological deficit
+	3. Characteristic angiographic findings
 
 #### S4
 A 57-year-old smoker presents with intermittent claudication of the right calf. The claudication distance is 70 metres. Angiography reveals a 12cm stenosis in the proximal femoral artery.
 ##### Answer: A. Femoropopliteal bypass - TRUE
+- Such a long stenosis (12 cm) is unsuitable for angioplasty
 
 #### S5
 A 21-year-old motorcyclist presents with multiple injuries following a road traffic accident. Clinical examinationn reveals a critically ischaemic right lower leg. The right dorsalis pedis pulse is feeble. The right calf is tense and swollen. The intracompatmental pressure is 55 mmHg. Angiography shows no discontinuity of the arterial tree.
 ##### Answer: F. Fasciotomy - TRUE
+- This Pt has **Compartment Syndrome**
+	- Urgent fasciotomy is indicated in order to save his right leg
 
 ### Q35 Theme: Familial Endocrine disease
 	A. MEN1 syndrome
@@ -451,68 +468,72 @@ A 21-year-old motorcyclist presents with multiple injuries following a road traf
 
 #### S1
 Autosomal dominant condition with high penetrance
-##### Answer: B. MEN2 syndrome
+##### Answer: B. MEN2 syndrome - *FALSE* = A. MEN1 syndrome - TRUE
 
 #### S2
 Antosomal dominant condition with complete penetrance
-##### Answer: A. MEN1 syndrome
+##### Answer: A. MEN1 syndrome - *FALSE* = B. MEN2 syndrome - TRUE
 
 #### S3
 Presents with tumours anterior pituitary, parathyroids and pancreatic cells
-##### Answer: A. MEN1 syndrome
+##### Answer: A. MEN1 syndrome - TRUE
 
 #### S4
 Presents with bilateral micronodular adrenal hyperplasia
-##### Answer: C. Phaeochromocytoma
+##### Answer: C. Phaeochromocytoma - *FALSE* = D. Carney syndrome - TRUE
 
 #### S5
 The most common presenting lesion in MEN1 syndrome
-##### Answer: G. Hyperparathyroidism
+##### Answer: G. Hyperparathyroidism - TRUE
 
 ### Q36 Theme: Anatomy
-
-A. Anterior
-B. Posterior
-C. Superior
-D. Inferior
-E. Medial
-F. Lateral
+	A. Anterior
+	B. Posterior
+	C. Superior
+	D. Inferior
+	E. Medial
+	F. Lateral
 
 #### S1
 The carotid artery in relation to the jugular vein
-##### Answer: E. Medial
+##### Answer: E. Medial - TRUE
 
 #### S2
 The vas deferens in relation to the spermatic cord
-##### Answer: A. Anterior
+##### Answer: A. Anterior - *FALSE* = B. Posterior - TRUE
 
 #### S3
 The oesophagus in relation to the left main bronchus
-##### Answer: B. Posterior
+##### Answer: B. Posterior - TRUE
 
 #### S4
 The femoral vein in relation to the femoral artery at the level of the inguinal ligament
-##### Answer: E. Medial 
+##### Answer: E. Medial - TRUE
 
 #### S5
 The rectum in relation to Waldeyer's fascia
-##### Answer: B. Posterior
+##### Answer: B. Posterior - *FALSE* = A. Anterior - TRUE
 
 ### Q37 Theme: Testicular tumours
-A. Ultrasound-guided biopsy
-B. Surveillance
-C. Hormone manipulation
-D. Radiotherapy
-E. Orchidectomy vis a transverse scrotal incision
-F. Inguinal orchidectomy
-G. Chemotherapy
+	A. Ultrasound-guided biopsy
+	B. Surveillance
+	C. Hormone manipulation
+	D. Radiotherapy
+	E. Orchidectomy vis a transverse scrotal incision
+	F. Inguinal orchidectomy
+	G. Chemotherapy
 
 #### S1
 A 24-year-old man presented with a roght testicular swelling. Serum levels of human chorionic gonadotrophin (hCG) and alpha-fetoprotein (aFP) were groosly elevated. An orchidectomy was performed and histology confirm a non-seminomatous germ cell tumour (malignant tumour was undifferentiated). A post-operative CT scan reveals marked enlargement of para-aoric lymph nodes and tumour markers remain elevated.
-##### Answer: G. Chemotherapy
+##### Answer: G. Chemotherapy - TRUE
+- ChemoTx is the first-line Tx for Pts with metastatic testicular germ cell CA
+	- Cure rates are high even for those presenting with metastatic disease
 
 #### S2
 A 23-year-old man presents with lef-sided testicular swelling. The mass is irregular in shape. Ultrasound scanning suggest a tumour. His serum human chorionic gonadotrophin is slightly elevated.
-##### Answer: E. Orchidectomy via a transverse scrotal incision
+##### Answer: E. Orchidectomy via a transverse scrotal incision - *FALSE* = F. Inguinal orchidectomy - TRUE
+- Pt requires **inguinal orchidectomy**: there is no role for biopsy 
+- A scrotal approach can lead to seeding of tumour into scrotal skin
+	- Should be **avoided**
 
 ===
