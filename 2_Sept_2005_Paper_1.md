@@ -1,5 +1,5 @@
-PasTest Past Papers: 2 Sept 2005 SBA
-====================================
+PasTest Past Papers: 2 Sept 2005: Paper 1 
+=========================================
 
 ## Questions 1-10
 
@@ -134,4 +134,39 @@ Squamous-cell carcinoma (SCC) of the anal canal:
 
 
 ## Questions 41-50
+
+### Q41
+The ureter
+
+### Q42
+Phaeochromocytomas are
+
+### Q43
+The following stones form in acidic urine:
+
+### Q44
+Acute empyema:
+
+### Q45
+Beta-naphthylamine is a known cause of:
+
+### Q46
+Concerning muscles of the forearm:
+
+### Q47
+In uncomplicated would healing by first intention:
+
+### Q48
+Carcinoma of the bladder in the UK
+
+### Q49
+Regarding the knee joint
+
+### Q50
+In metabolic alkalosis associated with prolonged nasogastric aspiration in post-operative ileus, what is the most important cause of the acid-base disturbance?
+
+
+## Questions 51-60
+
+### Q51
 
