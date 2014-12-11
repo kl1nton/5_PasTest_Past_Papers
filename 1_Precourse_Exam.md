@@ -331,16 +331,47 @@ E. Tissue plasminogen activator infusion (intra-arterial)
 F. Fasciotomy
 
 #### S1
-##### Answer: 
+A 65-year-old presents with intermittent claudication of the left calf. The claudication distance is 100 metres. Angiography demonstrated a 1.5cm stenosis of the left superficial femoral artery.
+##### Answer: B. Percutaneous balloon angioplasty
 
 #### S2
-##### Answer: 
+A 73-year-old diabetic woman presents with critial ischaemia of the right lower leg. Angiography reveals extensive disease of the superficial femoral,popliteal and tibial arteries. Pulse-generated run-off assessment indicates a good run-off in the posterior tibial artery.
+##### Answer: C Femorodistal bypass
 
 #### S3
-##### Answer: 
+A 72-year-old man presents with a 4-hour Hx of acute ischaemia of the left leg. Clinical examinations demonstrate signs of actue ischaemia with no evidence of gangree. There is no neurological defet. An urgent angiogram reveals a complete occlusion of the distal superficial femoral artery most likely due to thrombosis.
+##### Answer: E. Tissue plasminogen activator infusion (intra-arterial)
 
 #### S4
-##### Answer: 
+A 57-year-old smoker presents with intermittent claudication of the right calf. The claudication distance is 70 metres. Angiography reveals a 12cm stenosis in the proximal femoral artery.
+##### Answer: A. Femoropopliteal bypass
 
 #### S5
-##### Answer: 
+A 21-year-old motorcyclist presents with multiple injuries following a road traffic accident. Clinical examinationn reveals a critically ischaemic right lower leg. The right dorsalis pedis pulse is feeble. The right calf is tense and swollen. The intracompatmental pressure is 55 mmHg. Angiography shows no discontinuity of the arterial tree.
+##### Answer: F. Fasciotomy
+
+### Q35 Theme: Familial Endocrine disease
+A. MEN1 syndrome
+B. MEN2 syndrome
+C. Phaechromocytoma
+D. Carney syndrome
+E. Familial hyperparathyroid syndrome
+F. Papillary carcinoma of thyroid
+G. Hyperparathyroid
+H. Diabetes
+
+#### S1
+##### Answer:
+
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+#### S5
+##### Answer:
+
