@@ -102,5 +102,36 @@ Follicular thyroid carcinoma
 
 ## Questions 31-40
 
+### Q31
+Concerning lasers
 
+### Q32
+Osteoporosis is most reliably diagnosed by which of the following techniques:
+
+### Q33
+Which of the following would be typical of diabetes mellitus (DM)?
+
+### Q34
+Child's classification of the severity of chronic liver disease includes:
+
+### Q35
+Which of the following are correct? A patient presenting to the general practitioner with the following symptoms or signs should be referred urgently to exclude head and neck cancer:
+
+### Q36
+The following are typical features of an acute extradural heamatoma on CT scan
+
+### Q37
+Developmental dysplasia of the hip:
+
+### Q38
+The blade of a retractor has rested on the psoas muscle during a lengthly operative procedure. This has resulted in a femoral nerve palsy. In the post-operative period the patient will experience:
+
+### Q39
+In the emergency management of a 29-year-old man with extensive burns to his torso and legs:
+
+### Q40
+Squamous-cell carcinoma (SCC) of the anal canal:
+
+
+## Questions 41-50
 
