@@ -242,25 +242,105 @@ Colorectal carcinoma:
 - size is the best predictor of prognosis - FALSE
 - arising in the right colon, tends to have an earlier Dukes' stage that that arising in the right column - FALSE
 
-### Q31
-Theme: Locomotor System
-
+### Q31 - Theme: Locomotor System 
 	A. Osteosarcoma
 	B. Bony metastasis from lung carcinoma
 	C. Myeloma
-	D. Oestochondroma
+	D. Osteochondroma
 	E. Ewing's sarcoma
 
-**Scenario A**
+#### Scenario A
 You see a 50-year-old man presenting with weakness, lethargy and back pain. X-ray of hsi back reveals a crush fracture of his vertebra with multiple punched out defects in his sacrum and ilium. Blood test reveal an anaemia but also a very high ESR. Examination of the urine reveals a Bence-Jones proteinuria.
+##### Answer: C. Myeloma
 
-#### Answer: ?
-
-**Scenario B**
+#### Scenario B
 A 13-year-old girl presents with a 9-month history of pain in her knee especially at night. X-ray of her knee shows reactive new bone formation at angles of periosteal elevation, osteolytic, and oestoblastic areas. Only the metaphysis of her tibia is affected.
+##### Answer: E. Ewing's sarcoma  
 
-#### Answer: ?
+#### Scenario C
+You see a 25-year-old man presenting with pain and a visible swelling over his right ribia. X-ray reveals a well-defined radiolucent trabeculation oon the metaphysis of his tibia. Clinically the lesion is much larger than the x-ray appearance suggests.
+##### Answer: D. Osteochondroma
 
-**Scenario C**
+### Q32 - Theme: Colorectal cancer
+A. 5 fluorouracil and radiotherapy
+B. Hartmann's procedure and liver biopsy
+C. De-functioning loop ileostomy
+D. Subtotal colectomy and ileorectal anastomotis plus left hepatectomy
+E. Left hemicolectomy, primary anastomosus and left hepatectomy
+D. Radical radiotherapy
 
+#### Scenario 1
+An 84-year-old presents with complete large lowel obstruction. Plain abdominal x-ray demnstrates a grossly dilated colon (diameter 8cm). Gastrograffin enema confirms complete obstruction at the distal sigmoid colon most likley due to a tumour. Abdominal ultrasonography shows 4 lesion in the left lobe of the liver suggestive of metastases. The patoent's dehydration is corrected.
+##### Answer: B. Hartmann's procedure and liver biopsy
 
+#### Scenario 2
+A 59-year-old woman presents with a colovaginal fistula 3-weeks after anterior resection of the rectum for Dukes A carcinoma. Digital rectal examination (DRE) shows no faecal impaction. Abdominal ultrasonography shows two echo-free lesion in the left lobe of the liver and no evidence of collection in the abdomen or pelvis.
+##### Answer: C. De-functioning loop ileostomy
+
+### Q33 - Theme: upper limb fractures
+A. Neck of humerus
+B. Scaphoid
+C. Smith's fracture
+D. Colle's fracture
+E. Supracondylar fracture of the humerus
+F. Acromioclavicular joint disruption
+G. Alecranon fracture
+
+#### S1
+Associated with axillary nerve injury
+##### Answer: A. Neck of humerus
+
+#### S2
+Should be immobilised with the forearm in supination after reduction
+##### Answer: G. Olecranon fracture
+
+#### S3
+Requires a weight-loading view to confirm diagnosis
+##### Answer: B. Scaphoid fracture
+
+#### S4
+Associated with Median Nerve injury
+##### Answer: E. Supracondylar fracture of the humerus
+
+#### S5
+The brachial artery can be compromised
+##### Answer: A. Neck of humerus
+
+#### S6
+Treatment is with a collar and cuff
+##### Answer: Neck of humerus
+
+#### S7
+Internal fixation is frequently necessary
+##### Answer: G. Olecranon fracture
+
+#### S8
+Treatment is with a broad arm sling
+##### Answer: E. Supracondylar fracture of the humerus
+
+#### S9
+Results in a dinner folk deformity
+##### Answer: D. Colle's fracture
+
+### Q34 Theme: Lower limb ischaemia
+A. Femoropoliteal bypass
+B. Percutaneous balloon angioplasty
+C. Femorodistal bypass
+D. Below knee amputation
+E. Tissue plasminogen activator infusion (intra-arterial)
+F. Fasciotomy
+
+#### S1
+##### Answer: 
+
+#### S2
+##### Answer: 
+
+#### S3
+##### Answer: 
+
+#### S4
+##### Answer: 
+
+#### S5
+##### Answer: 
