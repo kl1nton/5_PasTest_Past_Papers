@@ -37,5 +37,37 @@ After ulnar nerve section at the medial epicondyle there is:
 ## Questions 11-20
 
 ### Q11
+Concerning burn injuries:
+
+### Q12
+In developmental dysplasia of the hip:
+
+### Q13
+Acute renal failure (ARF)
+
+### Q14
+Metastic spread to the liver is seen in:
+
+### Q15
+Secretin:
+
+### Q16
+Regarding joints:
+
+### Q17
+One of the actions of oxytocin is:
+
+### Q18
+Paget's disease of bone
+
+### Q19
+How is the Mantoux test administered?
+
+### Q20
+Fat embolism syndrome:
+
+
+## Questions 21-30
+
 
 
