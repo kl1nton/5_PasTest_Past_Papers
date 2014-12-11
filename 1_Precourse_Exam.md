@@ -11,13 +11,18 @@ Hip dislocation is:
 - Treated by total hip replacement in most cases - FALSE
 - Usually posterior in motorcyclists sustaining a sudden deceleration accident - TRUE   
 
+#### Answer: F Ø
+
 ### Q2
 Anterior should dislocation:
 - is less common than posterior should dislocation - FALSE
 - is ususally subcoracoid - TRUE
-- usually presents with the arm in the adductiuon postion - TRUE
+- usually presents with the arm in the adductiuon position - TRUE
 - is a recognised causes of axillary nerve palsy - TRUE
 - can be treated using Kocher's method - FALSE
+
+#### Answer: F: 3F, 5T
+- TODO
 
 ### Q3
 The following are acceptable treatments for a non-reducible small inguinal hernia in a 32-year-old man:
@@ -29,13 +34,19 @@ The following are acceptable treatments for a non-reducible small inguinal herni
 - Heriotomy - FALSE
 - Transperitoneal repair - TRUE
 
+#### Answer: F: 7F
+- TODO
+
 ### Q4
 Abdominal wound dehiscence:
-- should be suspected if there is serosanginous discharge from the would after 2-3 days - TRUE
+- should be suspected if there is serosanginous discharge from the wound after 2-3 days - TRUE
 - is more common in midline than paramedian incisions - FALSE
 - affects male patients more commonly than female - FALSE
 - is less common after emergency surgical procedures - FALSE
-is reduced by sparate closure of the peritoneum - TRUE
+- is reduced by separate closure of the peritoneum - TRUE
+
+#### Answer: F: 3T, 5F
+- TODO
 
 ### Q5
 Oesophageal cancer:
@@ -45,6 +56,9 @@ Oesophageal cancer:
 - is associated with an overall 5-year survival of 25% - TRUE
 - can be accurately staged with endoluminal ultrasonography - FALSE
 
+#### Answer: F: 1F 2T 3F 5T
+- TODO
+
 ### Q6
 Symptoms associated with primary hyperparathryoidism include:
 - diarrhoea - TRUE
@@ -53,12 +67,18 @@ Symptoms associated with primary hyperparathryoidism include:
 - insomnia - FALSE
 - depression - TRUE
 
+#### Answer: F: 1F, 2T
+- TODO 
+
 ### Q7
 The colon can:
 - absorb up to 5L of water a day - TRUE
 - produce short chained fatty acids from cellulous - FALSE
 - got into ileus following a laparotomy - FALSE
 - exchange Cl- and HCO3- - TRUE
+
+#### Answer: 2T, 3T
+- TODO
 
 ### Q8
 Volvulus of the sigmoid colon:
@@ -68,13 +88,19 @@ Volvulus of the sigmoid colon:
 - associated with gangrene of the sigmoid colon, is treated by Hartmann's procedure - TRUE
 - has a recurrence rate of 90% with non-operative management - TRUE
 
+#### Answer: F: 5F
+- TODO
+
 ### Q9
 Carpal tunnel syndrome:
 - is a recognised complication of rheumatoid arthritis (RA) - TRUE
 - is frequently caused by a cervical rib - FALSE
 - spares the abductor pollicis brevis (APB) - TRUE
 - the diagnosis can be made with confidence on review of nerve conduction studies - FALSE
-- is treated by divison of the extensor retinaculum - TRUE
+- is treated by division of the extensor retinaculum - TRUE
+
+#### Answer: F: 3F 4T 5F
+- TODO 
 
 ### Q10
 The following are features of post phlebitic syndrome:
@@ -82,7 +108,13 @@ The following are features of post phlebitic syndrome:
 - groin pain - FALSE
 - ulcers on the calf - TRUE
 - ankle oedema - FALSE
-- decreased ankle brachila pressure index - FALSE
+- decreased ankle brachial pressure index - FALSE
+
+#### Answer: F: 1F, 4T
+- TODO
+
+
+## Questions 11-20
 
 ### Q11 
 Lymphoedema:
@@ -92,13 +124,18 @@ Lymphoedema:
 - rarely responds to active conservative management - FALSE
 - responds well to diuretic treatment - FALSE
 
+#### Answer: F Ø
+
 ### Q12
-Amaurosis fugax:
+_Amaurosis fugax_:
 - is a form of TIA (transient ischaemic attack) - TRUE
 - is transient biocular blindness - FALSE
 - is caused by hypoperfusion of Internal Carotid Artery (ICA) - TRUE
 - is caused by embolisation of ophthalmic artery - FALSE
-- occurs on the oppostive side to the carotid lesion - FALSE
+- occurs on the opposite side to the carotid lesion - FALSE
+
+#### Answer: F: 3F, 4T
+- TODO
 
 ### Q13
 In surgery of the varicose veins affecting Long Saphenous system:
@@ -106,7 +143,9 @@ In surgery of the varicose veins affecting Long Saphenous system:
 - a vertical incision is used routinely - FALSE
 - the Sapheno-Femoral Junction (SFJ) is 3-4cm inferolateral to the pubic tubercle - TRUE
 - There are usually 4 names tributaries - TRUE
-- the long saphenous vein must be stripped from ankle to groin to avoid damage to the sphaenous nerve - FALSE
+- the long saphenous vein must be stripped from ankle to groin to avoid damage to the saphenous nerve - FALSE
+
+#### Answer: F Ø
 
 ### Q14
 In supracondylar fracture of the humerus:
@@ -116,6 +155,9 @@ In supracondylar fracture of the humerus:
 - the deformity causes kinking of the radial artery - TRUE
 - wrist drop is a typically finding - FALSE
 
+#### Answer: 1F, 2F, 4F
+- TODO
+
 ### Q15
 Cervical spine injury:
 - should be suspected if there is brusing in the supraclavicular fossa - TRUE
@@ -123,6 +165,9 @@ Cervical spine injury:
 should always be treated initally by full immobilisation of the neck - TRUE
 - CT scan should be obtained in cases of C-spine injury - FALSE
 - may cause a paralytic ileus - FALSE
+
+#### Answer: 4T, 5T
+- TODO
 
 ### Q16
 Intertrochanteric fractures of the femur:
@@ -132,6 +177,8 @@ Intertrochanteric fractures of the femur:
 - are best treated by hemiarthroplasty with femoral head replacement - FALSE
 - can be treated with dynamic hip screw (DHS) fixation) - TRUE
 
+#### Answer: F Ø
+
 ### Q17
 Lower limb arterial bypass grafts:
 - the best patency rates are achieved by autogenous saphenous vein - TRUE
@@ -140,12 +187,18 @@ Lower limb arterial bypass grafts:
 - polytetrafluoroethylene (PTFE) grafts become fully endothelialised in due course - TRUE
 - the use of processed human umbilical vein is limied by its inherent antigenicity - FALSE
 
+#### Answer: F: 4F
+- TODO
+
 ### Q18
 When an arterio-venous fistula is constructed between the radial artery and cephalic vein:
 - the fistula becomes a low-resistance pathway for blood flow - TRUE
 - blood flow in the proximal radial artery increases - TRUE
 - arterial pressure distal to the fistual will be reduced - FALSE
 - the proximal artery elongates and distends with time - FALSE
+
+#### Answer: F: 1F, 2F
+- TODO
 
 ### Q19
 Acute otitis media:
@@ -155,6 +208,9 @@ Acute otitis media:
 - requres myringotomy in the early stages of presentation - FALSE
 - frequently progresses to chronic otitis media - TRUE
 
+#### Answer: F: 1F, 2F, 5F
+- TODO
+
 ### Q20
 The following are found during an approach to the right subclavian artery:
 - Stellate ganglion - TRUE
@@ -163,6 +219,9 @@ The following are found during an approach to the right subclavian artery:
 - Scalenus anterior - TRUE
 - Thoracic duct - FALSE
 
+#### Answer: F: 1F, 2T
+- TODO
+ 
 ### Q21
 In patients with pseudomembranous colitis:
 - pigment-containing macrophages accumulate in the colonic mucosa - TRUE
@@ -170,6 +229,9 @@ In patients with pseudomembranous colitis:
 - there is crypt damage throught the mucosal layer - FALSE
 - a plain radiograph of of the abdomen typically shows narrowed haustra - TRUE
 - sigmpodoscopy shows a pale red pseudomembrane - FALSE
+
+#### Answers: F: 1F, 4F
+- TODO
 
 ### Q22
 Acute appendicitis:
@@ -179,6 +241,9 @@ has a peack incidence in the fourth decade - FALSE
 - may cause diarrhoea - TRUE
 - complicatd by an appendix mass, should be initally treated conservatively = FALSE
 
+#### Answers: F: 5T
+- TODO
+
 ### Q23
 A 45-year-old woman presents with nausea, vomiting, and abdominal pain. DDx include:
 - gastritis - TRUE
@@ -186,6 +251,9 @@ A 45-year-old woman presents with nausea, vomiting, and abdominal pain. DDx incl
 - non-specific abdominal pain - FALSE
 - adrenal insufficiency crisis - TRUE
 - acute appendicitis - TRUE
+
+#### Errors: 2T, 3T
+- TODO
 
 ### Q24
 The following radiological features suggest that significant trauma to the renal tract may have occurred:
@@ -195,6 +263,8 @@ The following radiological features suggest that significant trauma to the renal
 - free intra-abdominal air - FALSE
 - elevation of the ipsilateral diaphragm - TRUE
 
+#### Errors: Ø
+
 ### Q25
 Ureteric calculus:
 - will generally pass spontaneously if smaller than 2cm in diameter - FALSE
@@ -202,6 +272,9 @@ Ureteric calculus:
 - frequently cause vomiting - TRUE
 - due to uric acid are radio-translucent - FALSE
 - often resul from urinary tract infection (UTI) - FALSE
+
+#### Errors: 4T, 5T
+- TODO
 
 ### Q26
 Regarding urological trauma:
@@ -211,6 +284,9 @@ Regarding urological trauma:
 - membranous urethral injuries are usually caused by straddle injuries - TRUE
 - easy passage of a soft urethral catheter excludes significant urethral injury - FALSE
 
+#### Errors: 4F
+- TODO
+
 ### Q27
 Malignant melanoma:
 - is more frequent in communities living furthest from the equator - FALSE
@@ -218,6 +294,9 @@ Malignant melanoma:
 - accounts for the majority of deaths due to cutaneous malignancy - FALSE
 - is common amoungst Celtic races - TRUE
 - is more common in men - TRUE
+
+#### Errors: 3T, 5F
+- TODO
 
 ### Q28
 In axillary lymph node dissection
@@ -227,6 +306,8 @@ In axillary lymph node dissection
 - level II nodes are those lying lateral pectoralis minor - FALSE
 - an anaesthetic patch on the upper medial arm is a recognised complication - TRUE
 
+#### Errors: Ø
+
 ### Q29
 Arch of the Aorta
 - lies wholly in the superior mediastinum - TRUE
@@ -235,6 +316,9 @@ Arch of the Aorta
 - gives rise to the right internal mammary artery - FALSE
 - gives rise to the left vertebral artery - TRUE
 
+#### Errors: 2T, 5F
+- TODO
+
 ### Q30
 Colorectal carcinoma:
 - incidence is increased in Gardner's syndrome - FALSE
@@ -242,6 +326,9 @@ Colorectal carcinoma:
 - is radio resistant - FALSE
 - size is the best predictor of prognosis - FALSE
 - arising in the right colon, tends to have an earlier Dukes' stage that that arising in the right column - FALSE
+
+#### Errors: 1T
+- TODO
 
 ### Q31 - Theme: Locomotor System 
 	A. Osteosarcoma
@@ -252,114 +339,115 @@ Colorectal carcinoma:
 
 #### Scenario A
 You see a 50-year-old man presenting with weakness, lethargy and back pain. X-ray of hsi back reveals a crush fracture of his vertebra with multiple punched out defects in his sacrum and ilium. Blood test reveal an anaemia but also a very high ESR. Examination of the urine reveals a Bence-Jones proteinuria.
-##### Answer: C. Myeloma
+##### Answer: C. Myeloma - TRUE
 
 #### Scenario B
 A 13-year-old girl presents with a 9-month history of pain in her knee especially at night. X-ray of her knee shows reactive new bone formation at angles of periosteal elevation, osteolytic, and oestoblastic areas. Only the metaphysis of her tibia is affected.
-##### Answer: E. Ewing's sarcoma  
+##### Answer: E. Ewing's sarcoma - FALSE = A. Osteosarcoma - TRUE
 
 #### Scenario C
 You see a 25-year-old man presenting with pain and a visible swelling over his right ribia. X-ray reveals a well-defined radiolucent trabeculation oon the metaphysis of his tibia. Clinically the lesion is much larger than the x-ray appearance suggests.
-##### Answer: D. Osteochondroma
+##### Answer: D. Osteochondroma - TRUE
 
 ### Q32 - Theme: Colorectal cancer
-A. 5 fluorouracil and radiotherapy
-B. Hartmann's procedure and liver biopsy
-C. De-functioning loop ileostomy
-D. Subtotal colectomy and ileorectal anastomotis plus left hepatectomy
-E. Left hemicolectomy, primary anastomosus and left hepatectomy
-D. Radical radiotherapy
+	A. 5 fluorouracil and radiotherapy
+	B. Hartmann's procedure and liver biopsy
+	C. De-functioning loop ileostomy
+	D. Subtotal colectomy and ileorectal anastomotis plus left hepatectomy
+	E. Left hemicolectomy, primary anastomosus and left hepatectomy
+	D. Radical radiotherapy
 
 #### Scenario 1
 An 84-year-old presents with complete large lowel obstruction. Plain abdominal x-ray demnstrates a grossly dilated colon (diameter 8cm). Gastrograffin enema confirms complete obstruction at the distal sigmoid colon most likley due to a tumour. Abdominal ultrasonography shows 4 lesion in the left lobe of the liver suggestive of metastases. The patoent's dehydration is corrected.
-##### Answer: B. Hartmann's procedure and liver biopsy
+##### Answer: B. Hartmann's procedure and liver biopsy - TRUE
 
 #### Scenario 2
 A 59-year-old woman presents with a colovaginal fistula 3-weeks after anterior resection of the rectum for Dukes A carcinoma. Digital rectal examination (DRE) shows no faecal impaction. Abdominal ultrasonography shows two echo-free lesion in the left lobe of the liver and no evidence of collection in the abdomen or pelvis.
-##### Answer: C. De-functioning loop ileostomy
+##### Answer: C. De-functioning loop ileostomy - TRUE
 
 ### Q33 - Theme: upper limb fractures
-A. Neck of humerus
-B. Scaphoid
-C. Smith's fracture
-D. Colle's fracture
-E. Supracondylar fracture of the humerus
-F. Acromioclavicular joint disruption
-G. Alecranon fracture
+	A. Neck of humerus
+	B. Scaphoid
+	C. Smith's fracture
+	D. Colle's fracture
+	E. Supracondylar fracture of the humerus
+	F. Acromioclavicular joint disruption
+	G. Alecranon fracture
 
 #### S1
 Associated with axillary nerve injury
-##### Answer: A. Neck of humerus
+##### Answer: A. Neck of humerus - TRUE
 
 #### S2
 Should be immobilised with the forearm in supination after reduction
-##### Answer: G. Olecranon fracture
+##### Answer: G. Olecranon fracture - *FALSE* = C. Smith's fracture - TRUE
 
 #### S3
 Requires a weight-loading view to confirm diagnosis
-##### Answer: B. Scaphoid fracture
+##### Answer: B. Scaphoid fracture - *FALSE* = F. Acromioclavicular joint disruption - TRUE
 
 #### S4
 Associated with Median Nerve injury
-##### Answer: E. Supracondylar fracture of the humerus
+##### Answer: E. Supracondylar fracture of the humerus - *FALSE* = D. Colle's fracture - TRUE
 
 #### S5
 The brachial artery can be compromised
-##### Answer: A. Neck of humerus
+##### Answer: A. Neck of humerus - *FALSE* = E. Supracondylar fracture of the humerus - TRUE
 
 #### S6
-Treatment is with a collar and cuff
+Treatment is with a collar and cuff - TRUE
 ##### Answer: Neck of humerus
 
 #### S7
 Internal fixation is frequently necessary
-##### Answer: G. Olecranon fracture
+##### Answer: G. Olecranon fracture - TRUE
 
 #### S8
 Treatment is with a broad arm sling
-##### Answer: E. Supracondylar fracture of the humerus
+##### Answer: E. Supracondylar fracture of the humerus - *FALSE* = F. Acromioclavicular joint disruption
 
 #### S9
 Results in a dinner folk deformity
-##### Answer: D. Colle's fracture
+##### Answer: D. Colle's fracture - TRUE
 
 ### Q34 Theme: Lower limb ischaemia
-A. Femoropoliteal bypass
-B. Percutaneous balloon angioplasty
-C. Femorodistal bypass
-D. Below knee amputation
-E. Tissue plasminogen activator infusion (intra-arterial)
-F. Fasciotomy
+	A. Femoropoliteal bypass
+	B. Percutaneous balloon angioplasty
+	C. Femorodistal bypass
+	D. Below knee amputation
+	E. Tissue plasminogen activator infusion (intra-arterial)
+	F. Fasciotomy
 
 #### S1
 A 65-year-old presents with intermittent claudication of the left calf. The claudication distance is 100 metres. Angiography demonstrated a 1.5cm stenosis of the left superficial femoral artery.
-##### Answer: B. Percutaneous balloon angioplasty
+##### Answer: B. Percutaneous balloon angioplasty - TRUE
+
 
 #### S2
 A 73-year-old diabetic woman presents with critial ischaemia of the right lower leg. Angiography reveals extensive disease of the superficial femoral,popliteal and tibial arteries. Pulse-generated run-off assessment indicates a good run-off in the posterior tibial artery.
-##### Answer: C Femorodistal bypass
+##### Answer: C Femorodistal bypass - TRUE
 
 #### S3
 A 72-year-old man presents with a 4-hour Hx of acute ischaemia of the left leg. Clinical examinations demonstrate signs of actue ischaemia with no evidence of gangree. There is no neurological defet. An urgent angiogram reveals a complete occlusion of the distal superficial femoral artery most likely due to thrombosis.
-##### Answer: E. Tissue plasminogen activator infusion (intra-arterial)
+##### Answer: E. Tissue plasminogen activator infusion (intra-arterial) - TRUE
 
 #### S4
 A 57-year-old smoker presents with intermittent claudication of the right calf. The claudication distance is 70 metres. Angiography reveals a 12cm stenosis in the proximal femoral artery.
-##### Answer: A. Femoropopliteal bypass
+##### Answer: A. Femoropopliteal bypass - TRUE
 
 #### S5
 A 21-year-old motorcyclist presents with multiple injuries following a road traffic accident. Clinical examinationn reveals a critically ischaemic right lower leg. The right dorsalis pedis pulse is feeble. The right calf is tense and swollen. The intracompatmental pressure is 55 mmHg. Angiography shows no discontinuity of the arterial tree.
-##### Answer: F. Fasciotomy
+##### Answer: F. Fasciotomy - TRUE
 
 ### Q35 Theme: Familial Endocrine disease
-A. MEN1 syndrome
-B. MEN2 syndrome
-C. Phaechromocytoma
-D. Carney syndrome
-E. Familial hyperparathyroid syndrome
-F. Papillary carcinoma of thyroid
-G. Hyperparathyroid
-H. Diabetes
+	A. MEN1 syndrome
+	B. MEN2 syndrome
+	C. Phaechromocytoma
+	D. Carney syndrome
+	E. Familial hyperparathyroid syndrome
+	F. Papillary carcinoma of thyroid
+	G. Hyperparathyroid
+	H. Diabetes
 
 #### S1
 Autosomal dominant condition with high penetrance
