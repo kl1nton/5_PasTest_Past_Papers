@@ -205,3 +205,29 @@ A young man sustains a skull-base fracture at the middle cranial fossa which inj
 Regarding musculocutaneous flaps:
 
 ### Q62 
+Portal hypertension may be caused by:
+
+### Q63
+Risk factors for peripheral vascular disease include which of the following:
+
+### Q64
+Which of the following are true? Carpal tunnel compression:
+
+### Q65
+Malignant melanoma
+
+### Q66
+Concerning the gall bladder and biliary tree
+
+### Q67
+The tibial nerve in the popliteal fossa
+
+### Q68
+HERE
+
+### Q69
+
+### Q70
+
+
+## Questions 71-80
