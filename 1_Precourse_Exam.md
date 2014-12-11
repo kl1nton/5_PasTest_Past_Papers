@@ -361,17 +361,46 @@ G. Hyperparathyroid
 H. Diabetes
 
 #### S1
-##### Answer:
+Autosomal dominant condition with high penetrance
+##### Answer: B. MEN2 syndrome
 
 #### S2
-##### Answer:
+Antosomal dominant condition with complete penetrance
+##### Answer: A. MEN1 syndrome
 
 #### S3
-##### Answer:
+Presents with tumours anterior pituitary, parathyroids and pancreatic cells
+##### Answer: A. MEN1 syndrome
 
 #### S4
-##### Answer:
+Presents with bilateral micronodular adrenal hyperplasia
+##### Answer: C. Phaeochromocytoma
 
 #### S5
-##### Answer:
+The most common presenting lesion in MEN1 syndrome
+##### Answer: G. Hyperparathyroidism
+
+### Q36 Theme: Anatomy
+
+A. Anterior
+B. Posterior
+C. Superior
+D. Inferior
+E. Medial
+F. Lateral
+
+#### S1
+##### Answer: 
+
+#### S2
+##### Answer: 
+
+#### S3
+##### Answer: 
+
+#### S4
+##### Answer: 
+
+#### S5
+##### Answer: 
 
