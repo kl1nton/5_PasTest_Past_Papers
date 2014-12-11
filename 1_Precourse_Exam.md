@@ -1,4 +1,5 @@
 PasTest Past Papers: 1 Pre-Course Exam
+======================================
 
 ## Questions 1-10
 
@@ -390,17 +391,40 @@ E. Medial
 F. Lateral
 
 #### S1
-##### Answer: 
+The carotid artery in relation to the jugular vein
+##### Answer: E. Medial
 
 #### S2
-##### Answer: 
+The vas deferens in relation to the spermatic cord
+##### Answer: A. Anterior
 
 #### S3
-##### Answer: 
+The oesophagus in relation to the left main bronchus
+##### Answer: B. Posterior
 
 #### S4
-##### Answer: 
+The femoral vein in relation to the femoral artery at the level of the inguinal ligament
+##### Answer: E. Medial 
 
 #### S5
-##### Answer: 
+The rectum in relation to Waldeyer's fascia
+##### Answer: B. Posterior
 
+### Q37 Theme: Testicular tumours
+A. Ultrasound-guided biopsy
+B. Surveillance
+C. Hormone manipulation
+D. Radiotherapy
+E. Orchidectomy vis a transverse scrotal incision
+F. Inguinal orchidectomy
+G. Chemotherapy
+
+#### S1
+A 24-year-old man presented with a roght testicular swelling. Serum levels of human chorionic gonadotrophin (hCG) and alpha-fetoprotein (aFP) were groosly elevated. An orchidectomy was performed and histology confirm a non-seminomatous germ cell tumour (malignant tumour was undifferentiated). A post-operative CT scan reveals marked enlargement of para-aoric lymph nodes and tumour markers remain elevated.
+##### Answer: G. Chemotherapy
+
+#### S2
+A 23-year-old man presents with lef-sided testicular swelling. The mass is irregular in shape. Ultrasound scanning suggest a tumour. His serum human chorionic gonadotrophin is slightly elevated.
+##### Answer: E. Orchidectomy via a transverse scrotal incision
+
+===
