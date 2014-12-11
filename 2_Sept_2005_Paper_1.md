@@ -169,4 +169,39 @@ In metabolic alkalosis associated with prolonged nasogastric aspiration in post-
 ## Questions 51-60
 
 ### Q51
+The following statements concern the arches of the foot:
 
+### Q52
+Which of the following are true? Regarding hepatic cirrhosis:
+
+### Q53
+Nutrition in a healthy adult male - daily requirements
+
+### Q54
+For basal cell carcinoma (BCC) of the face, which one of the following is true?
+
+### Q55
+Adult respiratory distress syndrome (ARDS):
+
+### Q56
+Reharding B cells and plasma cells, which of the following is true?
+
+### Q57
+Which of the following are true? Indications for systemic magnesium Tx include:
+
+### Q58
+The following are associated with th formation of renal calculi:
+
+### Q59
+Tourniquets:
+
+### Q60
+A young man sustains a skull-base fracture at the middle cranial fossa which injures his right abducent (CN VI) nerve. Which signs are most likely to be present on clinical examination?
+
+
+## Questions 61-70 
+
+### Q61
+Regarding musculocutaneous flaps:
+
+### Q62 
