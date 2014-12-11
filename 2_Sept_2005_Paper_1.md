@@ -69,5 +69,38 @@ Fat embolism syndrome:
 
 ## Questions 21-30
 
+### Q21
+Systemic Inflammatory Repsonse Syndrome (SIRS):
+
+### Q22
+The following conditions may be associated with a raised mean cell volume:
+
+### Q23
+Lower limb amputation:
+
+### Q24
+The cephalic vein:
+
+### Q25
+???
+
+### Q26
+The neck of the femur:
+
+### Q27
+Haemorrhagic shock:
+
+### Q28
+In the surgical anatomy of the liver:
+
+### Q29
+Release of oxygen from the blood to peripheral tissues is influenced by:
+
+### Q30
+Follicular thyroid carcinoma
+
+
+## Questions 31-40
+
 
 
