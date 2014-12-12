@@ -105,6 +105,8 @@ Concerning burn injuries:
 - pure full thickness burns are painful - FALSE
 - they are associated with haemoglobinuria - TRUE
 - with regard to  fluid replacement in adults, the urine output should be at least 0.5 mL/kg/h - TRUE
+#### Errors: CF
+- todo
 
 ### Q12
 In developmental dysplasia of the hip:
@@ -113,6 +115,7 @@ In developmental dysplasia of the hip:
 - the Trendelenberg test is positive in established cases - TRUE
 - x-ray examination of the newborn will confirm displacement of the femoral head - FALSE
 - prognosis is indicated by Catterall's classification - FALSE
+#### Errors: Ø
 
 ### Q13
 Acute renal failure (ARF)
@@ -121,6 +124,8 @@ Acute renal failure (ARF)
 - may produce little histological change - FALSE
 - is usually the result of damage to the proximal tubule - FALSE
 - carries an overall mortality rate of 10% - FALSE
+#### Errors: 1F, 3T, 4T
+-todo
 
 ### Q14
 Metastic spread to the liver is seen in:
@@ -129,6 +134,8 @@ Metastic spread to the liver is seen in:
 - melanoma - TRUE 
 - lymphoma - FALSE
 - breast cancer - TRUE
+#### Errors: 4T
+- todo
 
 ### Q15
 Secretin:
@@ -137,6 +144,8 @@ Secretin:
 - is secreted by the stomach - FALSE
 - stimulated ezyme-rich secretion from the pancreas - TRUE
 - secretion is stimulated by acid in the duodenum - TRUE
+#### Errors: 4F
+- todo
 
 ### Q16
 Regarding joints:
@@ -145,6 +154,8 @@ Regarding joints:
 - symphysis pubis is an example of a secondary cartilaginous joint - FALSE
 - synovial joints have a capsule enclosing the joint cavity - TRUE
 - the cartilaginous epiphysis is a highly vascular structure - TRUE
+#### Errors: 1F, 3T, 5F
+- todo
 
 ### Q17
 One of the actions of oxytocin is:
@@ -153,6 +164,7 @@ One of the actions of oxytocin is:
 - skeletal muscle contraction - FALSE
 - uterine muscle contraction - TRUE
 - intestinal smooth muscle contraction - FALSE
+#### Errors: Ø
 
 ### Q18
 Paget's disease of bone:
@@ -163,6 +175,8 @@ Paget's disease of bone:
 - is mostly found in the femur - TRUE
 - predisposes to fractures - TRUE
 - can be treated with calcium - TRUE
+#### Errors: 1F, 2T, 4T, 5F, 7F
+-todo
 
 ### Q19
 How is the Mantoux test administered?
@@ -172,7 +186,7 @@ How is the Mantoux test administered?
 	D. Intradermal
 	E. Intravenous - F
 
-#### Answer: D. Intradermal 
+#### Answer: D. Intradermal - TRUE
 
 ### Q20
 Fat embolism syndrome:
@@ -181,6 +195,8 @@ Fat embolism syndrome:
 - results in a petechial rash in the retinae - FALSE
 - may be associated with confusion - TRUE
 - may feature fat on cytological examination - TRUE
+#### Errors: 1F, 2F
+- todo
 
 
 ## Questions 21-30
