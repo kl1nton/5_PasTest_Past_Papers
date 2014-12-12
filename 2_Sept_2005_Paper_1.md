@@ -463,7 +463,6 @@ In uncomplicated wound healing by first intention:
 #### Errors: 2F
 - todo
 
-
 Name 						| Value 		|
 ----------------------------|---------------|
 Number of questions 		| 90
@@ -483,12 +482,23 @@ Ambiguous reponses 	|      0
 
 ### Q48
 Carcinoma of the bladder in the UK
+- is more common in women - TRUE
+- is typically squamous cell in nature - TRUE
+- is a consequence of leishmaniasis - TRUE
+- commonly presents as painful haematuria - FALSE
+- may be treated using bacilli Calmette-Guerin (BCG) vaccine - TRUE
 
 ### Q49
-Regarding the knee joint
+Regarding the knee joint:
+- the saphenous nerve and vein may be damaged in a lateral approach to the knee - FALSE
+- the common peroneal nerve may be damaged by a medial apprach to the knee - FALSE
+- the popliteal artery is the deepest structure in the popliteal fossa - FALSE
+- the innervation of the knee join is exclusively the tibial nerve - FALSE
+- the main blood supply to the knee is the genicular branches of the femoral artery - TRUE
 
 ### Q50
 In metabolic alkalosis associated with prolonged nasogastric aspiration in post-operative ileus, what is the most important cause of the acid-base disturbance?
+#### Answer: C. Loss of gastric acid
 
 
 ## Questions 51-60
