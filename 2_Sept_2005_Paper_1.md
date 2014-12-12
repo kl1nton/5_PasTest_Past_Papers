@@ -82,30 +82,83 @@ After ulnar nerve section at the medial epicondyle there is:
 
 ### Q11
 Concerning burn injuries:
+- if of partial thickness they do not usually need fluid replacement - FALSE
+- if involving the head and neck, special attention to the airway is essential - TRUE
+- they cause increase of insensible loss of 20 mL/m^2^/h if full thickness - TRUE
+- pure full thickness burns are painful - FALSE
+- they are associated with haemoglobinuria - TRUE
+- with regard to  fluid replacement in adults, the urine output should be at least 0.5 mL/kg/h - TRUE
 
 ### Q12
 In developmental dysplasia of the hip:
+- there is familial tendency - TRUE
+- the joint capsule is incomplete - FALSE
+- the Trendelenberg test is positive in established cases - TRUE
+- x-ray examination of the newborn will confirm displacement of the femoral head - FALSE
+- prognosis is indicated by Catterall's classification - FALSE
 
 ### Q13
 Acute renal failure (ARF)
+- is drug-induced in 75% of cases - TRUE
+- occurs in approximately 30% of critically ill patients - TRUE
+- may produce little histological change - FALSE
+- is usually the result of damage to the proximal tubule - FALSE
+- carries an overall mortality rate of 10% - FALSE
 
 ### Q14
 Metastic spread to the liver is seen in:
+- colorectal cancer - TRUE
+- prostate cancer - TRUE
+- melanoma - TRUE 
+- lymphoma - FALSE
+- breast cancer - TRUE
 
 ### Q15
 Secretin:
+- inhibits gallbladded contraction - FALSE
+- stimulates secretion of alkaline pancreatic juice - TRUE
+- is secreted by the stomach - FALSE
+- stimulated ezyme-rich secretion from the pancreas - TRUE
+- secretion is stimulated by acid in the duodenum - TRUE
 
 ### Q16
 Regarding joints:
+- primary cartilaginous joints units the bones of the vault of the skull at the sutures - TRUE
+- fibrous joints are very mobile - FALSE
+- symphysis pubis is an example of a secondary cartilaginous joint - FALSE
+- synovial joints have a capsule enclosing the joint cavity - TRUE
+- the cartilaginous epiphysis is a highly vascular structure - TRUE
 
 ### Q17
 One of the actions of oxytocin is:
+- milk production - FALSE
+- sperm maturation - FALSE 
+- skeletal muscle contraction - FALSE
+- uterine muscle contraction - TRUE
+- intestinal smooth muscle contraction - FALSE
 
 ### Q18
-Paget's disease of bone
+Paget's disease of bone:
+- characteristically affects the cortex - TRUE
+- can be treated with bisphosphonates - FALSE
+- causes evelated alkaline phosphatase - TRUE
+- is uncommon in patients under 50 years of age - FALSE
+- is mostly found in the femur - TRUE
+- predisposes to fractures - TRUE
+- can be treated with calcium - TRUE
 
 ### Q19
 How is the Mantoux test administered?
+	A. Intramuscular - F
+	B. Subcutaneous
+	C. Multiple subcutaneous places - F
+	D. Intradermal
+	E. Intravenous - F
+
+#### Answer: D. Intradermal 
+
+
+## Questions 11-20
 
 ### Q20
 Fat embolism syndrome:
