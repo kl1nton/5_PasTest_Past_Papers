@@ -481,6 +481,8 @@ Carcinoma of the bladder in the UK
 - is a consequence of leishmaniasis - TRUE
 - commonly presents as painful haematuria - FALSE
 - may be treated using bacilli Calmette-Guerin (BCG) vaccine - TRUE
+#### Errors: 1F, 2F 3F
+- todo
 
 ### Q49
 Regarding the knee joint:
@@ -489,10 +491,12 @@ Regarding the knee joint:
 - the popliteal artery is the deepest structure in the popliteal fossa - FALSE
 - the innervation of the knee join is exclusively the tibial nerve - FALSE
 - the main blood supply to the knee is the genicular branches of the femoral artery - TRUE
+#### Errors: 3T
+- todo
 
 ### Q50
 In metabolic alkalosis associated with prolonged nasogastric aspiration in post-operative ileus, what is the most important cause of the acid-base disturbance?
-#### Answer: C. Loss of gastric acid
+#### Answer: C. Loss of gastric acid - TRUE
 
 
 ## Questions 51-60
@@ -504,6 +508,8 @@ The following statements concern the arches of the foot:
 - the plantar calcaneonavicular ligament helps to maintain the medial longitudinal arch - TRUE
 - the peroneus longus tendon helps to maintain the transverse arch - FALSE
 - the peroneus longus tendon helps to maintain the lateral longitudinal arch - TRUE
+#### Errors: 1T, 3X, 4T
+- todo
 
 ### Q52
 Which of the following are true? Regarding hepatic cirrhosis:
@@ -512,6 +518,8 @@ Which of the following are true? Regarding hepatic cirrhosis:
 - may result in occurance of spider naevi - TRUE
 - leads to a fall in blood ammonium levels - FALSE
 - oesophageal varices are an important cause of death in patients with cirrhosis - TRUE
+#### Errors: 2X
+- todo
 
 ### Q53
 Nutrition in a healthy adult male - daily requirements:
@@ -519,6 +527,8 @@ Nutrition in a healthy adult male - daily requirements:
 - potassium is approximately 2 mmoL/kg per day - TRUE
 - carbohydrate is 2g/kg per day - TRUE
 - nitrogen is 0.1 g/kg per day - FALSE
+#### Errors: 1F, 2F
+- todo 
 
 ### Q54
 For basal cell carcinoma (BCC) of the face, which one of the following is true?
@@ -527,6 +537,8 @@ For basal cell carcinoma (BCC) of the face, which one of the following is true?
 - Radiotherapy us the current Tx of choice for basal cell carcinomas - FALSE
 - Small BCCs (less than 1 cm) should be excised with a maximum margin of 5 mm to improve cosmetic appearance - TRUE
 - aggressive recurrence may occur with BCCs on the forehead if the disease is not eradicated sufficiently - TRUE
+#### Errors: 4F
+- todo
 
 ### Q55
 Adult respiratory distress syndrome (ARDS):
@@ -535,10 +547,13 @@ Adult respiratory distress syndrome (ARDS):
 - has an increased PaO2 (in mmHg) : FiO2 ratio - FALSE
 - can lead to pulmonary fibrosis - TRUE
 - should be managed with low tidal volumes - FALSE
+#### Errors: 5T
+- todo
 
 ### Q56
 Reharding B cells and plasma cells, which of the following is true?
-#### Answer: A. B cells and plasma cells have surface-bound IgG
+#### Answer: A. B cells and plasma cells have surface-bound IgG - *FALSE* = D. B cells can undergo isotype switching - TRUE
+- todo
 
 ### Q57
 Which of the following are true? Indications for systemic magnesium Tx include:
@@ -547,6 +562,8 @@ Which of the following are true? Indications for systemic magnesium Tx include:
 - eclampsia - FALSE
 - migraine - FALSE
 - acute renal failure (ARF) - TRUE
+#### Errors: 1T, 3T, 4T, 5F
+- todo
 
 ### Q58
 The following are associated with the formation of renal calculi:
@@ -555,6 +572,8 @@ The following are associated with the formation of renal calculi:
 - peptic ulcer disease - FALSE
 - proteus - TRUE
 - hypoparathyroidism - TRUE
+#### Errors: 3T, 5F
+- todo
 
 ### Q59
 Tourniquets:
@@ -563,10 +582,12 @@ Tourniquets:
 - can causes focal demyelination of peripheral nerves - TRUE
 - usually produce an axonotmesis - FALSE
 - are suitable for procedures under local anaesthetic - FALSE
+#### Errors: 1F, 5T
+- todo
 
 ### Q60
 A young man sustains a skull-base fracture at the middle cranial fossa which injures his right abducent (CN VI) nerve. Which signs are most likely to be present on clinical examination?
-#### Answer: E. The patient is unable to deviate his right eye laterally
+#### Answer: E. The patient is unable to deviate his right eye laterally - TRUE
 
 
 ## Questions 61-70 
