@@ -10,14 +10,17 @@ Concerning lidocaine, which of the following are correct?
 - Is used as an anti-arrhythmic drug - FALSE
 - Can cause allergic reactions - TRUE
 - The addition of adrenaline causes increased uptake due to vasoconstriction - TTRUE
+#### Errors: 2F, 4F
+- todo
 
 ### Q2
 In performing a lumbar puncture, the operator needs to be familair with the anatomy involved. Which anatomical feature is relevant to this procedure?
-#### Answer: C. The spinal cord in the normal adult terminates anywhere from opposite the boyd of T12 to the body of L3; however, the commonest level is at the disc space between L1 and L2
+#### Answer: C. The spinal cord in the normal adult terminates anywhere from opposite the boyd of T12 to the body of L3; however, the commonest level is at the disc space between L1 and L2 - TRUE
 
 ### Q3
 In the clinical examination of the chest, accurate knowledge of the surface markings of the lungs is essential. Which of the following corresponds to the clinical situation?
-#### Answer: D. The lower board of the lung on each side corresponds to the tenth rib in the mid-axillary line
+#### Answer: D. The lower board of the lung on each side corresponds to the tenth rib in the mid-axillary line - *FALSE* = B. The oblique fissue of the lung corresponds to the medial border of the scapula when the arm is fully abducted - TRUE
+- todo
 
 ### Q4
 Which of the following are true? Expiring forcibly against a close glottis:
@@ -26,6 +29,8 @@ Which of the following are true? Expiring forcibly against a close glottis:
 - causes a detectable change in blood pressure in the normal subject - FALSE
 - occurs when one lifts a heavy weight - TRUE
 - decreases the intra-abdominal pressure - FALSE
+#### Errors: 1F, 2T, 3T
+- todo
 
 ### Q5
 An unconscious, normally competent adult requires an emergency laparotomy. Who can provide consent?
@@ -34,6 +39,8 @@ An unconscious, normally competent adult requires an emergency laparotomy. Who c
 - patient's solicitor - FALSE
 - consultant-in-charge - TRUE
 - duty manager of the hospital - TRUE
+#### Errors: 5F
+- todo
 
 ### Q6
 After trauma the following endocrine responses occur in the human body:
@@ -42,6 +49,8 @@ After trauma the following endocrine responses occur in the human body:
 - decrased cortisol release - FALSE
 - increased circulating T4 and T3 - TRUE
 - decreased growth hormone - FALSE
+#### Errors: 1F, 4F
+- todo
 
 ### Q7
 The following actions may have a direct positive inotropic effect on the heart:
@@ -50,6 +59,8 @@ The following actions may have a direct positive inotropic effect on the heart:
 - intravenous calcium - TRUE
 - intravenous furosemide (frusemide) - FALSE
 - digoxin - FALSE
+#### Errors: 5T
+- todo
 
 **Notes**
 http://en.wikipedia.org/wiki/Inotrope
@@ -61,6 +72,8 @@ The urethra in men:
 - has a 90º angle in its membranous part - TRUE
 - is narrowest at the prostatic urethra - TRUE
 - has a penile part invested by the erectile tissue of the corpora cavernosa - TRUE
+#### Errors: 1T, 3F, 4F, 5F
+- todo
 
 ### Q9
 The nerve roots:
@@ -69,6 +82,8 @@ The nerve roots:
 - of the axillary nerve are C5-C8 - FALSE 
 - of the radial nerve are C5-C8 nd T1 - FALSE
 - of the long thoracic nerve are Cr-C7 - TRUE
+#### Errors: 4T
+- todo
 
 ### Q10
 After ulnar nerve section at the medial epicondyle there is:
@@ -76,6 +91,8 @@ After ulnar nerve section at the medial epicondyle there is:
 - loss of flexion of the 5th proximal interphalangeal joint - TRUE
 - loss of cutaneous sensation on the medial side of the hand - TRUE
 - claw hand - TRUE
+#### Errors: 1T, 2F, 3F
+- todo
 
 
 ## Questions 11-20
