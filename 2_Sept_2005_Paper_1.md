@@ -599,6 +599,8 @@ Regarding musculocutaneous flaps:
 - type-3 flaps are supplied by a single doominant pedicle - FALSE
 - sartorius and the tibialis anterior are examples of type-4 flaps - FALSE
 - type-5 flaps have one dominant vascular pedicle and secondary smaller segmental pedicles - FALSE
+#### Errors: 1F, 4T, 5T
+- todo 
 
 ### Q62 
 Portal hypertension may be caused by:
@@ -607,6 +609,8 @@ Portal hypertension may be caused by:
 - Tricuspid valve incompetence - FALSE
 - Alcohol cirrhosis - TRUE
 - Budd-Chiari syndrome - TRUE
+#### Errors: 3T
+- todo
 
 ### Q63
 Risk factors for peripheral vascular disease include which of the following:
@@ -615,6 +619,8 @@ Risk factors for peripheral vascular disease include which of the following:
 - hypercholesterolaemia - TRUE
 - high homocysteine levels - FALSE
 - diabetes - TRUE
+#### Errors: 4T
+- todo
 
 ### Q64
 Which of the following are true? Carpal tunnel compression:
@@ -623,6 +629,8 @@ Which of the following are true? Carpal tunnel compression:
 - May cause anaesthesia of the little finger - TRUE
 - May cause parathesia of the index finger - FALSE
 - May be caused by inflammation of palmaris longus tendon - TRUE
+#### Errors: 2F, 2F, 4T, 5F
+- todo
 
 ### Q65
 Malignant melanoma:
@@ -631,6 +639,7 @@ Malignant melanoma:
 - is a common disease of childhood - FALSE
 - can be found around the anus - TRUE
 - mainly arises from basal cell papilloma - FALSE
+#### Errors: Ø
 
 ### Q66
 Concerning the gall bladder and biliary tree:
@@ -639,6 +648,8 @@ Concerning the gall bladder and biliary tree:
 - Venous drainage is usually via the gall-bladder bed - TRUE
 - The common hepatic duct is posteriorly related to the portal vein - TRUE
 - The bile duct lies in the free edge of the lesser omentum - FALSE
+#### Errors: 4F, 5T
+- todo
 
 ### Q67
 The tibial nerve in the popliteal fossa:
@@ -648,6 +659,8 @@ The tibial nerve in the popliteal fossa:
 - supplies muscles for dorsiflection of the ankle - FALSE
 - supplied the popliteus muscle - TRUE
 - runs deep to the gastrocnemius muscle - TRUE 
+#### Errors: 1T
+- todo
 
 ### Q68
 Causes of vomiting in infants and/or children include:
@@ -657,6 +670,8 @@ Causes of vomiting in infants and/or children include:
 - lactose intolerance - TRUE
 - appendicitis - TRUE
 - pyloric stenosis - TRUE
+#### Errors: 2T
+- todo
 
 ### Q69
 The processus vaginalis:
@@ -665,6 +680,8 @@ The processus vaginalis:
 - when present in adults, predisposes to direct inguinal hernai - FALSE
 - forms the tunica vaginalis in the adult - TRUE
 - invests the adult vas deferens - FALSE
+#### Errors: 1F, 2F
+- todo
 
 ### Q70
 With regard to extremity trauma:
@@ -673,6 +690,8 @@ With regard to extremity trauma:
 - arterial bleeding is controlled early by carefully applied forceps - TRUE
 - compartment syndrome is heralded by anabsent pedal pulse - FALSE
 - a fractured femur can result in 2L of blood loss - TRUE
+#### Errors: 3F
+- todo
 
 
 ## Questions 71-80
@@ -683,6 +702,8 @@ The risk of early post-operative renal failure is increased in patients with:
 - preoperative jaundice - FALSE
 - preoperative hypertension - TRUE
 - benign prostatoc hypertrophy - TRUE
+#### Errors: 2T, 3F, 4F
+- todo
 
 ### Q72
 Which of the following are true? Pulmonary function tests (PFTs):
@@ -691,6 +712,7 @@ Which of the following are true? Pulmonary function tests (PFTs):
 - The term 'dead space' is used to describe that part of the respiratory tract where ventilation does not occur - FALSE
 - peal expiratory flow rate (PEFR) is easily performed at the bedside - TRUE
 - the dead space refers to the volume of the lungs that is not ventilated duringnormal ventilation - FALSE 
+#### Errors: Ø
 
 ### Q73
 Possible complications of blood transfusion include:
@@ -699,6 +721,8 @@ Possible complications of blood transfusion include:
 - pancreatic endocrine insufficiency - FALSE
 - life-threatening thrombocytopenia - TRUE
 - T-cell leukaemia - FALSE
+#### Errors: 3T, 5, T
+- todo
 
 ### Q74
 Which of the following are true. Causes of impotence include:
@@ -708,6 +732,8 @@ Which of the following are true. Causes of impotence include:
 - psychological trauma - TRUE
 - cirrhosis - FALSE 
 - b-blockers - TRUE
+#### Errors: 5T
+- todo
 
 ### Q75
 Signs of severe respiratory distress include:
@@ -716,6 +742,8 @@ Signs of severe respiratory distress include:
 - sweating - FALSE
 - pulses alternans - TRUE
 - tremor - FALSE
+#### Errors: 2F 3X 4F 5T 
+- todo
 
 ### Q76
 Which of the following muscles are attached to the _linea aspera_?
@@ -724,6 +752,8 @@ Which of the following muscles are attached to the _linea aspera_?
 - long head of the biceps femoris - TRUE
 - pectineus - TRUE
 - rectus femoris - FALSE
+#### Errors: 1T, 3F, 4F
+- todo
 
 **Notes**
 Definition: _linea aspera_ (Ln: rough line): ridge of roughened surface on the posterior surface of the femur
@@ -734,6 +764,7 @@ Thyroxine:
 - decreases the rate of muscle synthesis - FALSE
 - decreases the plasma concentration of cholesterol - TRUE
 - decreases lipolysis - FALSE
+#### Errors: Ø
 
 ### Q78
 Which of the following structures are contents of the popliteal fossa:
@@ -742,6 +773,7 @@ Which of the following structures are contents of the popliteal fossa:
 - genicular branch of the obturator nerve - TRUE
 - long saphenous vein - FALSE
 - popliteal vein - TRUE
+#### Errors: Ø
 
 ### Q79
 Relevant anatomy for nephrectomy using a posterior approach:
@@ -750,6 +782,8 @@ Relevant anatomy for nephrectomy using a posterior approach:
 - the perinephric fat surrounds the renal fascia - TRUE
 - the renal artery lies anterior to the renal vein - TRUE 
 - the adrenal gland are at easy risk of injury - TRUE 
+#### Errors: 3F, 4F, 5F
+- todo
 
 ### Q80
 Which of the following are true? Glomerular filtration:
@@ -758,6 +792,8 @@ Which of the following are true? Glomerular filtration:
 - is normally goverened by blood presssure - FALSE
 - is noramlly governed by preglomular vasomotor tone - TRUE
 - allows for the passage of glucose into the ultrafiltrate in the normal individual - FALSE
+#### Errors: 1F, 5T
+- todo
 
 
 ## Questions 81-90
@@ -769,6 +805,7 @@ Lung compliance is reduced by:
 - pulmonary contusion - TRUE
 - an open pneumothorax - TRUE
 - an increase in functional residual capacity - TRUE
+#### Errors: 1F, 5F
 
 ### Q82
 Which of the following are true. The Greater sciatic foramen transmits:
@@ -776,6 +813,8 @@ Which of the following are true. The Greater sciatic foramen transmits:
 - piriformis muscle - TRUE
 - inferior gluteal nerve - FALSE
 - sciatic nerve - TRUE
+#### Errors: 1T, 3T
+- todo
 
 ### Q83
 von Willibrand's disease:
@@ -784,6 +823,8 @@ von Willibrand's disease:
 - is excluded if the APTT and INR are normal - TRUE
 - is a likely diagnosis in males with a Hx of haemarthroses - TRUE
 - may require pre-operative correction with desmopressin (DDAVP) - FALSE
+#### Errors: 2F, 3F, 4F, 5T
+- todo
 
 ### Q84
 Venous ulcers:
@@ -792,6 +833,7 @@ Venous ulcers:
 - are very painful - FALSE
 - are associated with absent pulses - FALSE
 - Cannot be diagnoses in the absebce of superficial varicose veins - FALSE
+#### Errors: Ø
 
 ### Q85
 The following structures exit the greater sciatic foramen below the piriformis muscle:
@@ -800,6 +842,8 @@ The following structures exit the greater sciatic foramen below the piriformis m
 - femoral cutaneous nerve - FALSE
 - inferior gluteal nerve - TRUE 
 - posterior cutaneous nerve of thigh - FALSE
+#### Errors: 2T, 5T
+- todo
 
 ### Q86
 In wound healing:
@@ -808,6 +852,8 @@ In wound healing:
 - copper deficiency delays wound healing - TRUE
 - hyperbaric oxygen significantly accelerates wound healing - TRUE
 - healing is delaying by azathioprine - TRUE
+#### Errors: 3F, 4F
+- todo
 
 ### Q87
 Human immunodeficiency virus (HIV):
@@ -816,6 +862,7 @@ Human immunodeficiency virus (HIV):
 - most frequently leads to a reveral of the CD4/CD8 lymphocyte ratio - TRUE
 - has a transmission rate of about 1% following percutaneous exposure - FALSE
 - is less infectious than Hepatitis B virus - TRUE
+#### Errors: Ø
 
 ### Q88
 Bleeding from the middle meningeal artery following head injury:
@@ -824,6 +871,8 @@ Bleeding from the middle meningeal artery following head injury:
 - may produce ipsilateral pupillary constriction - TRUE
 - is usually caused by a trivial accident - TRUE
 - typically causes a biconvex-shaped lesion on CT - TRUE
+#### Errors: 3F, 4F
+- todo
 
 ### Q89
 The following statements concern the bursa of the knee joint:
@@ -832,6 +881,8 @@ The following statements concern the bursa of the knee joint:
 - the prepatellar bursa lies in fron of the lower half of the _ligamentum patellae_ - TRUE
 - the popliteal bursa communicates with the knee joint - TRUE
 - the superficial intrapatellar bursa lies betwee the ligamentum patellae and the tibia - FALSE
+#### Errors: 3F, 4X
+- todo
 
 ### Q90
 Raised intracranial pressure:
@@ -840,6 +891,10 @@ Raised intracranial pressure:
 - leads to a rise in cerebral perfusoon pressure - FALSE
 - causes dilatation of the ipsilateral pupil - FALSE
 - can lead to a rise in blood pressure and bradycardia - TRUE
+#### Errors: 4T
+- todo
+
+===
 
 Name 			    | Value |
 --------------------|-------|
