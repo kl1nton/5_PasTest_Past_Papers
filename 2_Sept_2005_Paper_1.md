@@ -661,3 +661,110 @@ With regard to extremity trauma:
 
 
 ## Questions 71-80
+
+### Q71
+The risk of early post-operative renal failure is increased in patients with:
+- preoperative sepsis - TRUE
+- preoperative jaundice - FALSE
+- preoperative hypertension - TRUE
+- benign prostatoc hypertrophy - TRUE
+
+### Q72
+Which of the following are true? Pulmonary function tests (PFTs):
+- Forced expiratory volume : forced vital capacity (FEV1:FEC) ratio < 0.75 typically occurs in obstructive diease - TRUE
+- Restrictive disease typically results in a decreased FEV1:FVC ratio - FALSE
+- The term 'dead space' is used to describe that part of the respiratory tract where ventilation does not occur - FALSE
+- peal expiratory flow rate (PEFR) is easily performed at the bedside - TRUE
+- the dead space refers to the volume of the lungs that is not ventilated duringnormal ventilation - FALSE 
+
+### Q73
+Possible complications of blood transfusion include:
+- graft-verses-host diease - TRUE
+- an increased risk of recurrent malignancy - TRUE
+- pancreatic endocrine insufficiency - FALSE
+- life-threatening thrombocytopenia - TRUE
+- T-cell leukaemia - FALSE
+
+### Q74
+Which of the following are true. Causes of impotence include:
+- diabetes - TRUE
+- surgery for priapism - TRUE 
+- streptococcal pneumonia - FALSE
+- psychological trauma - TRUE
+- cirrhosis - FALSE 
+- b-blockers - TRUE
+
+### Q75
+Signs of severe respiratory distress include:
+- intercostal recession - TRUE
+- bradycardia - TRUE
+- sweating - FALSE
+- pulses alternans - TRUE
+- tremor - FALSE
+
+### Q76
+Which of the following muscles are attached to the _linea aspera_?
+- adductor brevis - FALSE
+- vastus lateralis - TRUE
+- long head of the biceps femoris - TRUE
+- pectineus - TRUE
+- rectus femoris - FALSE
+
+**Notes**
+Definition: _linea aspera_ (Ln: rough line): ridge of roughened surface on the posterior surface of the femur
+
+### Q77
+Thyroxine:
+- increases the oxygen consumption rate - TRUE
+- decreases the rate of muscle synthesis - FALSE
+- decreases the plasma concentration of cholesterol - TRUE
+- decreases lipolysis - FALSE
+
+### Q78
+Which of the following structures are contents of the popliteal fossa:
+- posterior tibial artery - FALSE
+- tibial nerve - TRUE
+- genicular branch of the obturator nerve - TRUE
+- long saphenous vein - FALSE
+- popliteal vein - TRUE
+
+### Q79
+Relevant anatomy for nephrectomy using a posterior approach:
+- parietal pleura does not extend below the twelfth rib - FALSE
+- the subcostal neurovascular bundle is relatively protected from risk of injury - TRUE
+- the perinephric fat surrounds the renal fascia - TRUE
+- the renal artery lies anterior to the renal vein - TRUE 
+- the adrenal gland are at easy risk of injury - TRUE 
+
+### Q80
+Which of the following are true? Glomerular filtration:
+- usually takes place at 24 mL/min - TRUE
+- depends on the rate of glomerular blood flow - TRUE
+- is normally goverened by blood presssure - FALSE
+- is noramlly governed by preglomular vasomotor tone - TRUE
+- allows for the passage of glucose into the ultrafiltrate in the normal individual - FALSE
+
+## Questions 81-90
+
+### Q81
+
+### Q82
+
+### Q83
+
+### Q84
+
+### Q85
+
+### Q86
+
+### Q87
+
+### Q88
+
+### Q89
+
+### Q90
+
+===
+
