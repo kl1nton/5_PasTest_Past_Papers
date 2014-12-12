@@ -402,6 +402,7 @@ The ureter:
 - is crossed anteriorly by the vas deferens - TRUE (_water under the bridge_)
 - lies over the external iliac artery in its distal third - FALSE
 - has a nerve supply to its upper third from the T10 segment of the spinal cord - TRUE
+#### Errors: Ø
 
 ### Q42
 Phaeochromocytomas are:
@@ -410,6 +411,8 @@ Phaeochromocytomas are:
 - malignant in 1% of cases - FALSE
 - best screened by urinary catecholamines - TRUE
 - best treated medically - FALSE
+#### Errors: 1T
+- todo
 
 ### Q43
 The following stones form in acidic urine: (~~GUESS~~)
@@ -418,6 +421,8 @@ The following stones form in acidic urine: (~~GUESS~~)
 - urate calculi - TRUE
 - calcium phosphate - FALSE
 - struvite calculi - TRUE
+#### Errors: 1T, 2F, 5F
+- todo
 
 ### Q44
 Acute empyema:
@@ -425,6 +430,7 @@ Acute empyema:
 - is commonly situated between two lobes of lung - FALSE
 - can lead to a 'frozen chest' - TRUE
 - frequently produces a bronchopleural fistula - FALSE
+#### Errors: Ø
 
 ### Q45
 Beta-naphthylamine is a known cause of:
@@ -434,6 +440,8 @@ Beta-naphthylamine is a known cause of:
 - adenocarcinoma of the stomach - TRUE
 - chemical pneumonitis - FALSE
 - lymphoma - TRUE
+#### Errors: 4F, 6F
+- todo
 
 ### Q46
 Concerning muscles of the forearm:
@@ -442,6 +450,8 @@ Concerning muscles of the forearm:
 - the anterior forearm muscles are divided into two musclar layers - superficial and deep - TRUE
 - all the muscles in the anterior part of the forearm are supplied by the median and ulnar nerves - TRUE
 - the brachioradialis belongs to the extensor group of muslces regarding its nerve supply, but is functionally a flexor of the forearm - TRUE
+#### Errors: 1T, 3F, 4F
+- todo
 
 ### Q47
 In uncomplicated wound healing by first intention:
@@ -450,15 +460,17 @@ In uncomplicated wound healing by first intention:
 - by the second month, 95% of the final strength is reached - FALSE
 - myofibroblasts cause wound contraction - TRUE
 - vitamin C deficiency leads to incompletely synthesised and cross-linked collagen - TRUE
+#### Errors: 2F
+- todo
 
-Name | Value
----|---|
-Number of questions | 90
-Questions answered | 47
-Not answered | 43
-Number answered correctly | 10
-Time limit | 180 minutes
 
+Name 						| Value 		|
+----------------------------|---------------|
+Number of questions 		| 90
+Questions answered 			| 47
+Not answered 				| 43
+Number answered correctly 	| 10
+Time limit 					| 180 minutes
 
 Name 			    | Value |
 --------------------|-------|
