@@ -329,25 +329,78 @@ Squamous-cell carcinoma (SCC) of the anal canal:
 ## Questions 41-50
 
 ### Q41
-The ureter
+The ureter:
+- is supplied by lumbar arteries - TRUE
+- lies anterior to the gonadal vessels - FALSE
+- is crossed anteriorly by the vas deferens - TRUE (_water under the bridge_)
+- lies over the external iliac artery in its distal third - FALSE
+- has a nerve supply to its upper third from the T10 segment of the spinal cord - TRUE
 
 ### Q42
-Phaeochromocytomas are
+Phaeochromocytomas are:
+- usually solitary - FALSE
+- extra-adrenal in 10% of cases - TRUE
+- malignant in 1% of cases - FALSE
+- best screened by urinary catecholamines - TRUE
+- best treated medically - FALSE
 
 ### Q43
-The following stones form in acidic urine:
+The following stones form in acidic urine: (~~GUESS~~)
+- cysteine - FALSE
+- staghorn calculi - TRUE
+- urate calculi - TRUE
+- calcium phosphate - FALSE
+- struvite calculi - TRUE
 
 ### Q44
 Acute empyema:
+- may follow a pneumonia - TRUE
+- is commonly situated between two lobes of lung - FALSE
+- can lead to a 'frozen chest' - TRUE
+- frequently produces a bronchopleural fistula - FALSE
 
 ### Q45
 Beta-naphthylamine is a known cause of:
+- small-cell carcinoma of the lung - FALSE
+- bladder cancer - TRUE
+- breast cancer - FALSE
+- adenocarcinoma of the stomach - TRUE
+- chemical pneumonitis - FALSE
+- lymphoma - TRUE
 
 ### Q46
 Concerning muscles of the forearm:
+- the medial epicondyle of the humerus is referred to as the common flexor attachment - FALSE
+- the lateral epicodyle of the humerus is referred to as the common extensor attachment - TRUE
+- the anterior forearm muscles are divided into two musclar layers - superficial and deep - TRUE
+- all the muscles in the anterior part of the forearm are supplied by the median and ulnar nerves - TRUE
+- the brachioradialis belongs to the extensor group of muslces regarding its nerve supply, but is functionally a flexor of the forearm - TRUE
 
 ### Q47
-In uncomplicated would healing by first intention:
+In uncomplicated wound healing by first intention:
+- there is an initial acute inflammatory response - TRUE
+- by the second day, fibroblasts can be detected laying down collagen - TRUE
+- by the second month, 95% of the final strength is reached - FALSE
+- myofibroblasts cause wound contraction - TRUE
+- vitamin C deficiency leads to incompletely synthesised and cross-linked collagen - TRUE
+
+Name | Value
+---|---|
+Number of questions | 90
+Questions answered | 47
+Not answered | 43
+Number answered correctly | 10
+Time limit | 180 minutes
+
+
+Name 			    | Value |
+--------------------|-------|
+Total responses 	|    421
+Numher of responses	|    219
+Correct responses 	|    140
+Incorrect responses |     79
+Responses not given	|    202
+Ambiguous reponses 	|      0
 
 ### Q48
 Carcinoma of the bladder in the UK
