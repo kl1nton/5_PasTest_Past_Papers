@@ -5,6 +5,11 @@ PasTest Past Papers: 2 Sept 2005: Paper 1
 
 ### Q1
 Concerning lidocaine, which of the following are correct?
+- Irreversibly blocks potassium channges - FALSE
+- Has a longer duration of action than bupivacaine - TRUE
+- Is used as an anti-arrhythmic drug - FALSE
+- Can cause allergic reactions - TRUE
+- The addition of adrenaline causes increased uptake due to vasoconstriction - TTRUE
 
 ### Q2
 In performing a lumbar puncture, the operator needs to be familair with the anatomy involved. Which anatomical feature is relevant to this procedure?
