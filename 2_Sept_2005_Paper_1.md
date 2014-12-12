@@ -505,33 +505,74 @@ In metabolic alkalosis associated with prolonged nasogastric aspiration in post-
 
 ### Q51
 The following statements concern the arches of the foot:
+- the lateral longitudinal arch consists of the calcaneum, coboid and rth and 5th metatarsal bones - FALSE
+- the transverse arch consists of the three cuneiform bones, buboid and bases of the metatarsal bones - TRUE
+- the plantar calcaneonavicular ligament helps to maintain the medial longitudinal arch - TRUE
+- the peroneus longus tendon helps to maintain the transverse arch - FALSE
+- the longus tendon helps to maintain the lateral longitudinal arch - TRUE
 
 ### Q52
 Which of the following are true? Regarding hepatic cirrhosis:
+- could result from Budd-Chiari syndrome - TRUE
+- can tead to testicular hypertrophy - FALSE
+- may result in occurance of spider naevi - TRUE
+- leads to a fall in blood ammonium levels - FALSE
+- oesophageal varices are an important cause of death in patients with cirrhosis - TRUE
 
 ### Q53
-Nutrition in a healthy adult male - daily requirements
+Nutrition in a healthy adult male - daily requirements:
+- sodium is approximately 3 mmoL/kg per day - TRUE
+- potassium is approximately 2 mmoL/kg per day - TRUE
+- carbohydrate is 2g/kg per day - TRUE
+- nitrogen is 0.1 g/kg per day - FALSE
 
 ### Q54
 For basal cell carcinoma (BCC) of the face, which one of the following is true?
+- it is the commonest malignant facial skin tumour - TRUE
+- Basal cell carcinomas commonly metastasise - FALSE
+- Radiotherapy us the current Tx of choice for basal cell carcinomas - FALSE
+- Small BCCs (less than 1 cm) should be excised with a maximum margin of 5 mm to improve cosmetic appearance - TRUE
+- aggressive recurrence may occur with BCCs on the forehead if the disease is not eradicated sufficiently - TRUE
 
 ### Q55
 Adult respiratory distress syndrome (ARDS):
+- is characterised by a decreased lung compliance - TRUE
+- occurs due to collapse of the alveoli - FALSE
+- has an increased PaO2 (in mmHg) : FiO2 ratio - FALSE
+- can lead to pulmonary fibrosis - TRUE
+- should be managed with low tidal volumes - FALSE
 
 ### Q56
 Reharding B cells and plasma cells, which of the following is true?
+#### Answer: A. B cells and plasma cells have surface-bound IgG
 
 ### Q57
 Which of the following are true? Indications for systemic magnesium Tx include:
+- cardiac arrhythmias - FALSE
+- generalised muscle spasticity - TRUE
+- eclampsia - FALSE
+- migraine - FALSE
+- acute renal failure (ARF) - TRUE
 
 ### Q58
-The following are associated with th formation of renal calculi:
+The following are associated with the formation of renal calculi:
+- metanephrins - FALSE
+- cystinuria - TRUE
+- peptic ulcer disease - FALSE
+- proteus - TRUE
+- hypoparathyroidism - TRUE
 
 ### Q59
 Tourniquets:
+- may be applied safely for up tp 3 hours at a time - TRUE
+- should not be applied to cause a pressure exceeding 300 mmHg - TRUE
+- can causes focal demyelination of peripheral nerves - TRUE
+- usually produce an axonotmesis - FALSE
+- are suitable for procedures under local anaesthetic - FALSE
 
 ### Q60
 A young man sustains a skull-base fracture at the middle cranial fossa which injures his right abducent (CN VI) nerve. Which signs are most likely to be present on clinical examination?
+#### Answer: E. The patient is unable to deviate his right eye laterally
 
 
 ## Questions 61-70 
