@@ -13,30 +13,69 @@ Concerning lidocaine, which of the following are correct?
 
 ### Q2
 In performing a lumbar puncture, the operator needs to be familair with the anatomy involved. Which anatomical feature is relevant to this procedure?
+#### Answer: C. The spinal cord in the normal adult terminates anywhere from opposite the boyd of T12 to the body of L3; however, the commonest level is at the disc space between L1 and L2
 
 ### Q3
 In the clinical examination of the chest, accurate knowledge of the surface markings of the lungs is essential. Which of the following corresponds to the clinical situation?
+#### Answer: D. The lower board of the lung on each side corresponds to the tenth rib in the mid-axillary line
 
 ### Q4
 Which of the following are true? Expiring forcibly against a close glottis:
+- is known as the Heimlich manoeuvre - TRUE
+- has the effect of reducing diastolic filling of the right atrium - FALSE
+- causes a detectable change in blood pressure in the normal subject - FALSE
+- occurs when one lifts a heavy weight - TRUE
+- decreases the intra-abdominal pressure - FALSE
 
 ### Q5
 An unconscious, normally competent adult requires an emergency laparotomy. Who can provide consent?
+- patient's spouse - FALSE	
+- patient's father - FALSE
+- patient's solicitor - FALSE
+- consultant-in-charge - TRUE
+- duty manager of the hospital - TRUE
 
 ### Q6
 After trauma the following endocrine responses occur in the human body:
+- increased insulin release - TRUE
+- increased vasopressin release - TRUE
+- decrased cortisol release - FALSE
+- increased circulating T4 and T3 - TRUE
+- decreased growth hormone - FALSE
 
 ### Q7
 The following actions may have a direct positive inotropic effect on the heart:
+- isoprenaline infusion - TRUE
+- GTN infusion - FALSE
+- intravenous calcium - TRUE
+- intravenous furosemide (frusemide) - FALSE
+- digoxin - FALSE
+
+**Notes**
+http://en.wikipedia.org/wiki/Inotrope
 
 ### Q8
 The urethra in men:
+- has a prostatic part bounded by the internal and external urethral sphincter - FALSE
+- has a spongy part which, when ruptured, leaks urine over the abdomen subcutaneously - TRUE
+- has a 90º angle in its membranous part - TRUE
+- is narrowest at the prostatic urethra - TRUE
+- has a penile part invested by the erectile tissue of the corpora cavernosa - TRUE
 
 ### Q9
 The nerve roots:
+- of the ulnar nerve are C8, T1, and sometimes C7 - TRUE
+- of the musculocutaneous nerve are C5-C6 only - FALSE
+- of the axillary nerve are C5-C8 - FALSE 
+- of the radial nerve are C5-C8 nd T1 - FALSE
+- of the long thoracic nerve are Cr-C7 - TRUE
 
 ### Q10
 After ulnar nerve section at the medial epicondyle there is:
+- loss of adduction of the fingers - FALSE
+- loss of flexion of the 5th proximal interphalangeal joint - TRUE
+- loss of cutaneous sensation on the medial side of the hand - TRUE
+- claw hand - TRUE
 
 
 ## Questions 11-20
