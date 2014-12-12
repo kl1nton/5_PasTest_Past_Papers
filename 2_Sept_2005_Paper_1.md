@@ -208,6 +208,8 @@ Systemic Inflammatory Repsonse Syndrome (SIRS):
 - core/peripheral temperature difference of more than 2ºC is seen in well individuals - FALSE
 - low-grade pyrexia is associated with myocardial infarction - TRUE
 - Systemic Inflammatory Response Syndrome is sepsis with a number of physiological criteria - TRUE
+#### Errors: 5F
+- todo
 
 ### Q22
 The following conditions may be associated with a _raised_ mean cell volume:
@@ -216,6 +218,8 @@ The following conditions may be associated with a _raised_ mean cell volume:
 - alcoholic liver disease - TRUE
 - recovery from acute haemorrhage - FALSE
 - chronic haemolytic anaemia - FALSE
+#### Errors: 4T, 5T
+- todo
 
 ### Q23
 Gas embolus is recognised in:
@@ -224,6 +228,8 @@ Gas embolus is recognised in:
 - varicose vein surgery - FALSE
 - central line insertion - TRUE
 - _Clostridium perfringens_ infection - TRUE
+#### Errors: 2T, 3T, 5F
+- todo
 
 ### Q24
 Lower limb amputation:
@@ -232,8 +238,9 @@ Lower limb amputation:
 - below the knee is classically performed with equal flaps - FALSE
 - may be perfomed using a skew flap technique below the knee - TRUE
 - using Syme's technique is the operation of choice in patient's with peripheral vascular disease - FALSE 
+#### Errors: Ø
 
-### Q24
+### Q25
 The cephalic vein:
 - forms in the anatomical snuffbox - TRUE
 - is deep to the cutaneous nerve of the forearm - FALSE
@@ -241,6 +248,8 @@ The cephalic vein:
 - is medial to the biceps tendon - FALSE
 - forms the axillary vein by joining the basilic vein - FALSE
 - has no valves - TRUE 
+#### Errors: 6F
+- todo
 
 ### Q26
 The neck of the femur:
@@ -249,6 +258,8 @@ The neck of the femur:
 - causes medial rotation of the thigh when fractured - FALSE
 - may lead to avascular necrosis when fractured - TRUE
 - is closely related to the obturator externus muscle - FALSE
+#### Errors: 5T
+- todo
 
 ### Q27
 Haemorrhagic shock:
@@ -258,6 +269,8 @@ Haemorrhagic shock:
 - produces a decrease in ventilation-perfusion mismatch - FALSE
 - causes an increase in tidal ventilation - FALSE
 - causes a decrease in atrial pressure and subsequent reduction in antidiuretic hormone (ADH) secretion - TRUE
+#### Errors: 1F, 3F, 5T, 6F
+- todo
 
 ### Q28
 In the surgical anatomy of the liver:
@@ -266,6 +279,8 @@ In the surgical anatomy of the liver:
 - the cudate lobe lies anterior to the portal vein - TRUE
 - the portal vein lies anterior the the Winslow's foramen - TRUE
 - three hepatic veins divide the liver into four sectors - FALSE
+#### Errors: 1F, 3, F, 5T
+- todo
 
 ### Q29
 Release of oxygen from the blood to peripheral tissues is influenced by:
@@ -274,6 +289,8 @@ Release of oxygen from the blood to peripheral tissues is influenced by:
 - blood volume - TRUE
 - PCO2 - FALSE
 - osmotic pressure - TRUE
+#### Errors: 3F, 4T, 5F
+- todo
 
 ### Q30
 Follicular thyroid carcinoma:
@@ -281,6 +298,8 @@ Follicular thyroid carcinoma:
 - commonly presents with cervical lymphadenopathy - FALSE 
 - is treated with thyroidectomy and radioactive iodine - FALSE
 - has a 10-year survival of >50% - TRUE
+#### Errors: 3T
+- todo
 
 
 ## Questions 31-40
