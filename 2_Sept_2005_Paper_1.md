@@ -253,34 +253,77 @@ Follicular thyroid carcinoma:
 ## Questions 31-40
 
 ### Q31
-Concerning lasers
+Concerning lasers:
+- lasers produce a monochromatic beam of energy - TRUE
+- the wavelengeth defines the penetration depth of the light through the tissue - FALSE
+- ureteric stone fragmentation can be achieved using the carbon dioxide laser - FALSE
+- water is a common lasing medium - FALSE
+- the pulsed tuby laser is used to remove tattoos - TRUE
 
 ### Q32
 Osteoporosis is most reliably diagnosed by which of the following techniques:
+#### Answer: A. Dual-energy X-ray absorptiometry (DEXA)
 
 ### Q33
 Which of the following would be typical of diabetes mellitus (DM)?
+- Nocturia - FALSE
+- Ketoacidosis - TRUE
+- Frequennt superficial infection - TRUE
+- A resting blood glucose of 5 mmol/L which rises to 10 mmol/L in half an hour and then returns to 5 again after 3 hr - FALSE
+- Low levels of glucagon in the blood - TRUE
 
 ### Q34
 Child's classification of the severity of chronic liver disease includes:
+- ascites - TRUE
+- bilirubin - TRUE
+- cholesterol - FALSE
+- bleedig varices - TRUE
+- coagulopathy - TRUE
+- encephalopathy - FALSE
 
 ### Q35
 Which of the following are correct? A patient presenting to the general practitioner with the following symptoms or signs should be referred urgently to exclude head and neck cancer:
+- Bilateral nasal polyps - FALSE
+- Persistent hoarseness for longer than six weeks - TRUE
+- Enlarging neck lump - TRUE
+- Hearing loss - TRUE (_acoustic neuroma_)
+- Ulcer on the helical aspect of the pinna - TRUE (_BCC/SCC_)
 
 ### Q36
-The following are typical features of an acute extradural heamatoma on CT scan
+The following are typical features of an acute extradural heamatoma on CT scan:
+- cresent-shaped haematoma - TRUE
+- haematoma crossing the suture line - FALSE
+- haematoma crossing the midline - FALSE
+- associated skull fracture - TRUE
+- decreased attenuation of the haematoma - TRUE
 
 ### Q37
 Developmental dysplasia of the hip:
+- is more common in babies with breech presentation - TRUE
+- has an association with talipes equivovarus - FALSE
+- is due to underdevelopent of the acetabular roof posteriorly - FALSE
+- can be held reduced in a Pavlik harness - TRUE
+- is demonstrated by Barlow's test where as the hip is abducted and flexed there is production of a clunk as the hip reduces - FALSE
 
 ### Q38
 The blade of a retractor has rested on the psoas muscle during a lengthly operative procedure. This has resulted in a femoral nerve palsy. In the post-operative period the patient will experience:
+#### Answer: D. Inability to extend the knee and numbess over the anterior thigh
 
 ### Q39
 In the emergency management of a 29-year-old man with extensive burns to his torso and legs:
+- fluid resuscitation should be commenced only after accurate assessment of the total body surface area of burn - FALSE
+- a urinary catheter is indicated if the burn is full-thickness overing = 15% total body surface area - FALSE
+- leathery white appearance is suggesive of full-thickness burns - FALSE
+- intravenous access should not be secures through burned skin - TRUE
+- escharotomy should not be performed until the patient is assessed in the burns unit - TRUE
 
 ### Q40
 Squamous-cell carcinoma (SCC) of the anal canal:
+- may spread to the pelvic lymph nodes - TRUE
+- is associated with human papillomavirus (HPV) infection - TRUE
+- chracteristically presents with faecal incontinence - FALSE
+- is relatively radioresistant - FALSE
+- is related to increased dietry fat intake - FALSE
 
 
 ## Questions 41-50
