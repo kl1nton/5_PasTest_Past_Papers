@@ -1,6 +1,8 @@
 PasTest Past Papers: 2 Sept 2005: Paper 1 
 =========================================
 
+(129+140)/(198+219) = 269/417 = 64.5%
+
 ## Questions 1-10
 
 ### Q1
@@ -463,18 +465,10 @@ In uncomplicated wound healing by first intention:
 #### Errors: 2F
 - todo
 
-Name 						| Value 		|
-----------------------------|---------------|
-Number of questions 		| 90
-Questions answered 			| 47
-Not answered 				| 43
-Number answered correctly 	| 10
-Time limit 					| 180 minutes
-
 Name 			    | Value |
 --------------------|-------|
 Total responses 	|    421
-Numher of responses	|    219
+Number of responses	|    219
 Correct responses 	|    140
 Incorrect responses |     79
 Responses not given	|    202
@@ -509,7 +503,7 @@ The following statements concern the arches of the foot:
 - the transverse arch consists of the three cuneiform bones, buboid and bases of the metatarsal bones - TRUE
 - the plantar calcaneonavicular ligament helps to maintain the medial longitudinal arch - TRUE
 - the peroneus longus tendon helps to maintain the transverse arch - FALSE
-- the longus tendon helps to maintain the lateral longitudinal arch - TRUE
+- the peroneus longus tendon helps to maintain the lateral longitudinal arch - TRUE
 
 ### Q52
 Which of the following are true? Regarding hepatic cirrhosis:
@@ -744,27 +738,96 @@ Which of the following are true? Glomerular filtration:
 - is noramlly governed by preglomular vasomotor tone - TRUE
 - allows for the passage of glucose into the ultrafiltrate in the normal individual - FALSE
 
+
 ## Questions 81-90
 
 ### Q81
+Lung compliance is reduced by:
+- a decreaes in the elastic fibres in the lungparenchya - TRUE
+- an increase in the surface tension of the alveolar fluid - TRUE
+- pulmonary contusion - TRUE
+- an open pneumothorax - TRUE
+- an increase in functional residual capacity - TRUE
 
 ### Q82
+Which of the following are true. The Greater sciatic foramen transmits:
+- pudendal nerve - FALSE
+- piriformis muscle - TRUE
+- inferior gluteal nerve - FALSE
+- sciatic nerve - TRUE
 
 ### Q83
+von Willibrand's disease:
+- is the commonest inherited bleeding disorder - TRUE
+- is mostly found in males - TRUE
+- is excluded if the APTT and INR are normal - TRUE
+- is a likely diagnosis in males with a Hx of haemarthroses - TRUE
+- may require pre-operative correction with desmopressin (DDAVP) - FALSE
 
 ### Q84
+Venous ulcers:
+- have sloping edges - TRUE
+- are most commonly found on the dorsum of the foot - FALSE
+- are very painful - FALSE
+- are associated with absent pulses - FALSE
+- Cannot be diagnoses in the absebce of superficial varicose veins - FALSE
 
 ### Q85
+The following structures exit the greater sciatic foramen below the piriformis muscle:
+- superior gluteal nerve and artery - FALSE
+- nerve to obturator internus - FALSE
+- femoral cutaneous nerve - FALSE
+- inferior gluteal nerve - TRUE 
+- posterior cutaneous nerve of thigh - FALSE
 
 ### Q86
+In wound healing:
+- sutured surgical wounds heal by secondary intention - FALSE
+- myofibroblasts are responsible for wound contraction - TRUE
+- copper deficiency delays wound healing - TRUE
+- hyperbaric oxygen significantly accelerates wound healing - TRUE
+- healing is delaying by azathioprine - TRUE
 
 ### Q87
+Human immunodeficiency virus (HIV):
+- has been contracted by droplet aerosol created by orthopaedic power tools - FALSE
+- leads to a persistenly elevated antigen titre - FALSE
+- most frequently leads to a reveral of the CD4/CD8 lymphocyte ratio - TRUE
+- has a transmission rate of about 1% following percutaneous exposure - FALSE
+- is less infectious than Hepatitis B virus - TRUE
 
 ### Q88
+Bleeding from the middle meningeal artery following head injury:
+- mainly affects the posterior branch - FALSE
+- results in an extradural haematoma - TRUE
+- may produce ipsilateral pupillary constriction - TRUE
+- is usually caused by a trivial accident - TRUE
+- typically causes a biconvex-shaped lesion on CT - TRUE
 
 ### Q89
+The following statements concern the bursa of the knee joint:
+- the suprapatellar bursa communicates with the knee joint - TRUE
+- the deep infrapatellar bursa lies posterior to the tibial plateau - FALSE
+- the prepatellar bursa lies in fron of the lower half of the _ligamentum patellae_ - TRUE
+- the popliteal bursa communicates with the knee joint - TRUE
+- the superficial intrapatellar bursa lies betwee the ligamentum patellae and the tibia - FALSE
 
 ### Q90
+Raised intracranial pressure:
+- can be caused by shearing injury to the scalp - FALSE
+- occurs immediately after an acute subdural haematoma - FALSE
+- leads to a rise in cerebral perfusoon pressure - FALSE
+- causes dilatation of the ipsilateral pupil - FALSE
+- can lead to a rise in blood pressure and bradycardia - TRUE
+
+Name 			    | Value |
+--------------------|-------|
+Total responses 	|    421
+Number of responses	|    198 
+Correct responses 	|    129
+Incorrect responses |     69
+Responses not given	|    223
+Ambiguous reponses 	|      0
 
 ===
 
