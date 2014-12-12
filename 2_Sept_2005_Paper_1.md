@@ -579,31 +579,85 @@ A young man sustains a skull-base fracture at the middle cranial fossa which inj
 
 ### Q61
 Regarding musculocutaneous flaps:
+- these flaps are base on vessels running either within or near the fascia - TRUE
+- scapular and parascapular flaps are examples of musculocutaneous flaps - FALSE
+- type-3 flaps are supplied by a single doominant pedicle - FALSE
+- sartorius and the tibialis anterior are examples of type-4 flaps - FALSE
+- type-5 flaps have one dominant vascular pedicle and secondary smaller segmental pedicles - FALSE
 
 ### Q62 
 Portal hypertension may be caused by:
+- pylephlebitis are acute appendicitis - TRUE
+- Splenectomy - FALSE
+- Tricuspid valve incompetence - FALSE
+- Alcohol cirrhosis - TRUE
+- Budd-Chiari syndrome - TRUE
 
 ### Q63
 Risk factors for peripheral vascular disease include which of the following:
+- increasing age - TRUE
+- smoking - TRUE
+- hypercholesterolaemia - TRUE
+- high homocysteine levels - FALSE
+- diabetes - TRUE
 
 ### Q64
 Which of the following are true? Carpal tunnel compression:
+- may be caused by metabolic disorders such as gout, diabetes and hyPOthyroidism - TRUE
+- Occludes the ulnar artery - TRUE
+- May cause anaesthesia of the little finger - TRUE
+- May cause parathesia of the index finger - FALSE
+- May be caused by inflammation of palmaris longus tendon - TRUE
 
 ### Q65
-Malignant melanoma
+Malignant melanoma:
+- has a better prognosis if it occurs on the trunk rather than the limbs - FALSE
+- has a better prognosis in men - FALSE
+- is a common disease of childhood - FALSE
+- can be found around the anus - TRUE
+- mainly arises from basal cell papilloma - FALSE
 
 ### Q66
-Concerning the gall bladder and biliary tree
+Concerning the gall bladder and biliary tree:
+- Hartmann's pouch may be found at the junction of the cystic duct and the common hepatic duct - FALSE 
+- the cystic artery may be found in Calot's triangle - TRUE
+- Venous drainage is usually via the gall-bladder bed - TRUE
+- The common hepatic duct is posteriorly related to the portal vein - TRUE
+- The bile duct lies in the free edge of the lesser omentum - FALSE
 
 ### Q67
-The tibial nerve in the popliteal fossa
+The tibial nerve in the popliteal fossa:
+- runs superficial to the popliteal vessels - FALSE
+- emerges medial to the popliteal artery - TRUE
+- gives off the sural nerve as a branch - TRUE
+- supplies muscles for dorsiflection of the ankle - FALSE
+- supplied the popliteus muscle - TRUE
+- runs deep to the gastrocnemius muscle - TRUE 
 
 ### Q68
-HERE
+Causes of vomiting in infants and/or children include:
+- menigitis - TRUE
+- tonsillitis - FALSE
+- cerebral tumour - TRUE
+- lactose intolerance - TRUE
+- appendicitis - TRUE
+- pyloric stenosis - TRUE
 
 ### Q69
+The processus vaginalis:
+- is formed by visceral peritoneum - TRUE
+- forms a sac in which the testis descends through the inguinal canal - TRUE
+- when present in adults, predisposes to direct inguinal hernai - FALSE
+- forms the tunica vaginalis in the adult - TRUE
+- invests the adult vas deferens - FALSE
 
 ### Q70
+With regard to extremity trauma:
+- haemorrhage should be controlled by direct pressure - TRUE
+- splinting reduces pain and haemorrhage - TRUE
+- arterial bleeding is controlled early by carefully applied forceps - TRUE
+- compartment syndrome is heralded by anabsent pedal pulse - FALSE
+- a fractured femur can result in 2L of blood loss - TRUE
 
 
 ## Questions 71-80
