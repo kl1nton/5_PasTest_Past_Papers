@@ -311,10 +311,12 @@ Concerning lasers:
 - ureteric stone fragmentation can be achieved using the carbon dioxide laser - FALSE
 - water is a common lasing medium - FALSE
 - the pulsed tuby laser is used to remove tattoos - TRUE
+#### Errors: 2T
+- too
 
 ### Q32
 Osteoporosis is most reliably diagnosed by which of the following techniques:
-#### Answer: A. Dual-energy X-ray absorptiometry (DEXA)
+#### Answer: A. Dual-energy X-ray absorptiometry (DEXA) - TRUE
 
 ### Q33
 Which of the following would be typical of diabetes mellitus (DM)?
@@ -323,15 +325,19 @@ Which of the following would be typical of diabetes mellitus (DM)?
 - Frequennt superficial infection - TRUE
 - A resting blood glucose of 5 mmol/L which rises to 10 mmol/L in half an hour and then returns to 5 again after 3 hr - FALSE
 - Low levels of glucagon in the blood - TRUE
+#### Errors: 1T, 5F
+- todo
 
 ### Q34
 Child's classification of the severity of chronic liver disease includes:
 - ascites - TRUE
 - bilirubin - TRUE
 - cholesterol - FALSE
-- bleedig varices - TRUE
+- bleeding varices - TRUE
 - coagulopathy - TRUE
 - encephalopathy - FALSE
+#### Errors: 4F, 5F, 6T
+- todo
 
 ### Q35
 Which of the following are correct? A patient presenting to the general practitioner with the following symptoms or signs should be referred urgently to exclude head and neck cancer:
@@ -340,6 +346,8 @@ Which of the following are correct? A patient presenting to the general practiti
 - Enlarging neck lump - TRUE
 - Hearing loss - TRUE (_acoustic neuroma_)
 - Ulcer on the helical aspect of the pinna - TRUE (_BCC/SCC_)
+#### Errors: 4F
+- todo
 
 ### Q36
 The following are typical features of an acute extradural heamatoma on CT scan:
@@ -348,6 +356,8 @@ The following are typical features of an acute extradural heamatoma on CT scan:
 - haematoma crossing the midline - FALSE
 - associated skull fracture - TRUE
 - decreased attenuation of the haematoma - TRUE
+#### Errors: 1F, 3T, 5F
+- todo
 
 ### Q37
 Developmental dysplasia of the hip:
@@ -356,10 +366,12 @@ Developmental dysplasia of the hip:
 - is due to underdevelopent of the acetabular roof posteriorly - FALSE
 - can be held reduced in a Pavlik harness - TRUE
 - is demonstrated by Barlow's test where as the hip is abducted and flexed there is production of a clunk as the hip reduces - FALSE
+#### Errors: 2T
+- todo
 
 ### Q38
 The blade of a retractor has rested on the psoas muscle during a lengthly operative procedure. This has resulted in a femoral nerve palsy. In the post-operative period the patient will experience:
-#### Answer: D. Inability to extend the knee and numbess over the anterior thigh
+#### Answer: D. Inability to extend the knee and numbess over the anterior thigh- TRUE
 
 ### Q39
 In the emergency management of a 29-year-old man with extensive burns to his torso and legs:
@@ -368,6 +380,8 @@ In the emergency management of a 29-year-old man with extensive burns to his tor
 - leathery white appearance is suggesive of full-thickness burns - FALSE
 - intravenous access should not be secures through burned skin - TRUE
 - escharotomy should not be performed until the patient is assessed in the burns unit - TRUE
+#### Errors: 2T, 3T, 4F, 5F
+- todo
 
 ### Q40
 Squamous-cell carcinoma (SCC) of the anal canal:
@@ -376,6 +390,7 @@ Squamous-cell carcinoma (SCC) of the anal canal:
 - chracteristically presents with faecal incontinence - FALSE
 - is relatively radioresistant - FALSE
 - is related to increased dietry fat intake - FALSE
+#### Errors: Ø
 
 
 ## Questions 41-50
