@@ -157,44 +157,97 @@ How is the Mantoux test administered?
 
 #### Answer: D. Intradermal 
 
-
-## Questions 11-20
-
 ### Q20
 Fat embolism syndrome:
+- is related to obesity - TRUE
+- delays fracture union - TRUE
+- results in a petechial rash in the retinae - FALSE
+- may be associated with confusion - TRUE
+- may feature fat on cytological examination - TRUE
 
 
 ## Questions 21-30
 
 ### Q21
 Systemic Inflammatory Repsonse Syndrome (SIRS):
+- may be associated with high (> 38ºC) or low (< 36ºC) temperature - TRUE
+- may be associated with a normal temperature - TRUE 
+- core/peripheral temperature difference of more than 2ºC is seen in well individuals - FALSE
+- low-grade pyrexia is associated with myocardial infarction - TRUE
+- Systemic Inflammatory Response Syndrome is sepsis with a number of physiological criteria - TRUE
 
 ### Q22
-The following conditions may be associated with a raised mean cell volume:
+The following conditions may be associated with a _raised_ mean cell volume:
+- dietary iron deficiency - FALSE
+- vegan diet - TRUE
+- alcoholic liver disease - TRUE
+- recovery from acute haemorrhage - FALSE
+- chronic haemolytic anaemia - FALSE
 
 ### Q23
+Gas embolus is recognised in:
+- hydrogen peroxide wound irrigation - TRUE
+- criminal abortion - FALSE
+- varicose vein surgery - FALSE
+- central line insertion - TRUE
+- _Clostridium perfringens_ infection - TRUE
+
+### Q24
 Lower limb amputation:
+- through the knee affords the best rehabilitation - FALSE
+- abpve the knee usually heals when equal anterior and posterior flaps are used - TRUE 
+- below the knee is classically performed with equal flaps - FALSE
+- may be perfomed using a skew flap technique below the knee - TRUE
+- using Syme's technique is the operation of choice in patient's with peripheral vascular disease - FALSE 
 
 ### Q24
 The cephalic vein:
-
-### Q25
-???
+- forms in the anatomical snuffbox - TRUE
+- is deep to the cutaneous nerve of the forearm - FALSE
+- joins the brachial artery at the elbow - FALSE
+- is medial to the biceps tendon - FALSE
+- forms the axillary vein by joining the basilic vein - FALSE
+- has no valves - TRUE 
 
 ### Q26
 The neck of the femur:
+- is wholly intracapsular - FALSE
+- has the intertrochanteric line on its anterior aspect - TRUE
+- causes medial rotation of the thigh when fractured - FALSE
+- may lead to avascular necrosis when fractured - TRUE
+- is closely related to the obturator externus muscle - FALSE
 
 ### Q27
 Haemorrhagic shock:
+- increases catecholamine secretion by the adrenal cortex - TRUE
+- causes the oxygen-haemoglobin dissociation curve to shift to the right - TRUE 
+- increases stimulation of aortic baroreceptors - TRUE
+- produces a decrease in ventilation-perfusion mismatch - FALSE
+- causes an increase in tidal ventilation - FALSE
+- causes a decrease in atrial pressure and subsequent reduction in antidiuretic hormone (ADH) secretion - TRUE
 
 ### Q28
 In the surgical anatomy of the liver:
+- segment I lies to the left of the portal vein - TRUE
+- segment II lies medial to the porta hepatis - TRUE
+- the cudate lobe lies anterior to the portal vein - TRUE
+- the portal vein lies anterior the the Winslow's foramen - TRUE
+- three hepatic veins divide the liver into four sectors - FALSE
 
 ### Q29
 Release of oxygen from the blood to peripheral tissues is influenced by:
+- temperature - TRUE
+- pH - TRUE
+- blood volume - TRUE
+- PCO2 - FALSE
+- osmotic pressure - TRUE
 
 ### Q30
-Follicular thyroid carcinoma
+Follicular thyroid carcinoma:
+- can be excluded if fine needle aspiration cytology (FNAC) shows follicular adenoma - FALSE
+- commonly presents with cervical lymphadenopathy - FALSE 
+- is treated with thyroidectomy and radioactive iodine - FALSE
+- has a 10-year survival of >50% - TRUE
 
 
 ## Questions 31-40
